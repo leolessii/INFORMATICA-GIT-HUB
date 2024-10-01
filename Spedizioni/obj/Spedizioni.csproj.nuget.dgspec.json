@@ -1,75 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\daria\\OneDrive\\Documenti\\Viisual satudio ex\\Spedizioni\\Spedizioni.csproj": {}
+    "Z:\\INFORMATICA\\INFORMATICA-GIT-HUB\\Spedizioni\\Spedizioni.csproj": {}
   },
   "projects": {
-    "C:\\Users\\daria\\OneDrive\\Documenti\\Viisual satudio ex\\Program\\Program.csproj": {
+    "Z:\\INFORMATICA\\INFORMATICA-GIT-HUB\\Spedizioni\\Spedizioni.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\daria\\OneDrive\\Documenti\\Viisual satudio ex\\Program\\Program.csproj",
-        "projectName": "Program",
-        "projectPath": "C:\\Users\\daria\\OneDrive\\Documenti\\Viisual satudio ex\\Program\\Program.csproj",
-        "packagesPath": "C:\\Users\\daria\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\daria\\OneDrive\\Documenti\\Viisual satudio ex\\Program\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\daria\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net7.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net7.0": {
-            "targetAlias": "net7.0",
-            "projectReferences": {}
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "C:\\Users\\daria\\OneDrive\\Documenti\\Viisual satudio ex\\Spedizioni\\Spedizioni.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\daria\\OneDrive\\Documenti\\Viisual satudio ex\\Spedizioni\\Spedizioni.csproj",
+        "projectUniqueName": "Z:\\INFORMATICA\\INFORMATICA-GIT-HUB\\Spedizioni\\Spedizioni.csproj",
         "projectName": "Spedizioni",
-        "projectPath": "C:\\Users\\daria\\OneDrive\\Documenti\\Viisual satudio ex\\Spedizioni\\Spedizioni.csproj",
-        "packagesPath": "C:\\Users\\daria\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\daria\\OneDrive\\Documenti\\Viisual satudio ex\\Spedizioni\\obj\\",
+        "projectPath": "Z:\\INFORMATICA\\INFORMATICA-GIT-HUB\\Spedizioni\\Spedizioni.csproj",
+        "packagesPath": "C:\\Users\\Leonardo.Lessi\\.nuget\\packages\\",
+        "outputPath": "Z:\\INFORMATICA\\INFORMATICA-GIT-HUB\\Spedizioni\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\daria\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Leonardo.Lessi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -77,14 +26,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\daria\\OneDrive\\Documenti\\Viisual satudio ex\\Program\\Program.csproj": {
-                "projectPath": "C:\\Users\\daria\\OneDrive\\Documenti\\Viisual satudio ex\\Program\\Program.csproj"
+              "Z:\\INFORMATICA\\INFORMATICA-GIT-HUB\\Program\\Program.csproj": {
+                "projectPath": "Z:\\INFORMATICA\\INFORMATICA-GIT-HUB\\Program\\Program.csproj"
               }
             }
           }
@@ -93,6 +43,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -114,7 +69,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
         }
       }
     }

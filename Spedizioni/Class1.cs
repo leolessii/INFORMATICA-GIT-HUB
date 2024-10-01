@@ -2,76 +2,63 @@
 {
     public class Pack
     {
-        protected int _id;
-        protected string _destination;
-        protected double _paymentAtDelivery;
-        protected DateOnly _speditionDate;
-        protected DateOnly _deliveryDate;
-        protected double _weight;
+        public string _id;
+        public string _destination;
+        public DateOnly _speditionDate;
+        public DateOnly _deliveryDate;
+        public double _weight;
+        public string _city;
 
-        protected int Id
+        public string Id
         {
             get { return _id; }
-            set { _id = value; }
+            private set { _id = value; }
         }
 
-        protected string Destination
+        public string Destination
         {
             get { return _destination; }
-            set { _destination = value; }
+            private set { _destination = value; }
         }
 
-        protected double PaymentAtDelivery
-        {
-            get { return _paymentAtDelivery; }
-            set { _paymentAtDelivery = value; }
-        }
-
-        protected DateOnly SpeditionDate
+        public DateOnly SpeditionDate
         {
             get { return _speditionDate; }
-            set { _speditionDate = value; }
+            private set { _speditionDate = value; }
         }
 
-        protected DateOnly DeliveryDate
+        public DateOnly DeliveryDate
         {
             get { return _deliveryDate; }
-            set { _deliveryDate = value; }
+            private set { _deliveryDate = value; }
         }
 
-        protected double Weight
+        public double Weight
         {
             get { return _weight; }
-            set { _weight = value; }
+            private set { _weight = value; }
         }
 
-        public Pack(string destination, double paymentAtDelivery, DateOnly speditionDate, DateOnly deliveryDate, double weight)
+        public string City
         {
-            Random rnd = new Random();
-            _id = rnd.Next(+1);
-            _destination = destination;
-            _paymentAtDelivery = paymentAtDelivery;
-            _speditionDate = speditionDate;
-            _deliveryDate = deliveryDate;
-            _weight = weight;
+            get { return _city; }
+            private set { _city = value; }
         }
 
-        public Pack(string destination, DateOnly speditionDate, DateOnly deliveryDate, double weight) 
+        public Pack(string id, string destination, DateOnly speditionDate, DateOnly deliveryDate, double weight, string city)
         {
-            Random rnd = new Random();
-            _id = rnd.Next(+1);
+            _id = id;
             _destination = destination;
             _speditionDate = speditionDate;
             _deliveryDate = deliveryDate;
             _weight = weight;
+            _city = city;
         }
 
-        public override bool Equals(object? obj)
+        public bool Equals(string id)
         {
-            if(obj == null) return false;
-            obj = obj as Pack;
-            // non trova l'id in obj
-            if(obj.Id == Id) return true;
+            if(id == null) return false;
+            if(id == Id) return true;
             else return false;
         }
 
