@@ -1,0 +1,4 @@
+C:\Users\daria\OneDrive\Documenti\Viisual satudio ex\Spedizioni\obj\Debug\net7.0\Spedizioni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daria\OneDrive\Documenti\Viisual satudio ex\Spedizioni\obj\Debug\net7.0\Spedizioni.AssemblyInfoInputs.cache
+C:\Users\daria\OneDrive\Documenti\Viisual satudio ex\Spedizioni\obj\Debug\net7.0\Spedizioni.AssemblyInfo.cs
+C:\Users\daria\OneDrive\Documenti\Viisual satudio ex\Spedizioni\obj\Debug\net7.0\Spedizioni.csproj.CoreCompileInputs.cache
