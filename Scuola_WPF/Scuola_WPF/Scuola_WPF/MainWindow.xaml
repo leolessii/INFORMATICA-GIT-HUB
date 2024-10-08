@@ -1,0 +1,28 @@
+﻿<Window x:Class="Scuola_WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Scuola_WPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="btn_aggiungiStudente" Content="aggiungi studente" HorizontalAlignment="Left" Height="82" Margin="79,39,0,0" VerticalAlignment="Top" Width="136" Click="btn_aggiungiStudente_Click"/>
+        <Button x:Name="btn_aggiungiDocente" Content="aggiungi docente" HorizontalAlignment="Center" Height="82" Margin="0,39,0,0" VerticalAlignment="Top" Width="144" Click="btn_aggiungiDocente_Click"/>
+        <Button x:Name="btn_aggiungiCollaboratore" Content="aggiungi collaboratore" HorizontalAlignment="Left" Height="82" Margin="571,39,0,0" VerticalAlignment="Top" Width="156" Click="btn_aggiungiCollaboratore_Click"/>
+        <TextBox x:Name="box_nome" HorizontalAlignment="Left" Height="33" Margin="69,144,0,0" TextWrapping="Wrap" Text="inserisci nome" VerticalAlignment="Top" Width="98"/>
+        <TextBox x:Name="box_cognome" HorizontalAlignment="Left" Height="38" Margin="69,0,0,0" TextWrapping="Wrap" Text="inserisci cognome" VerticalAlignment="Center" Width="98"/>
+        <TextBox x:Name="box_codiceFiscale" HorizontalAlignment="Left" Height="37" Margin="69,251,0,0" TextWrapping="Wrap" Text="inserisci codice fiscale" VerticalAlignment="Top" Width="108"/>
+        <TextBox x:Name="box_matricola" HorizontalAlignment="Left" Height="33" Margin="328,144,0,0" TextWrapping="Wrap" Text="inserisci matricola" VerticalAlignment="Top" Width="109"/>
+        <TextBox x:Name="box_classe" HorizontalAlignment="Left" Height="38" Margin="328,0,0,0" TextWrapping="Wrap" Text="inserisci classe" VerticalAlignment="Center" Width="109"/>
+        <TextBox x:Name="box_sezione" HorizontalAlignment="Left" Height="37" Margin="328,251,0,0" TextWrapping="Wrap" Text="inserisci sezione" VerticalAlignment="Top" Width="118"/>
+        <TextBox x:Name="box_materia" HorizontalAlignment="Left" Height="42" Margin="547,144,0,0" TextWrapping="Wrap" Text="inserisci materia" VerticalAlignment="Top" Width="114"/>
+        <TextBox x:Name="box_salario" HorizontalAlignment="Left" Height="28" Margin="547,208,0,0" TextWrapping="Wrap" Text="inserisci salario" VerticalAlignment="Top" Width="130"/>
+        <Button x:Name="btn_aggiungiStudente2" Content="aggiungi" HorizontalAlignment="Left" Height="64" Margin="108,317,0,0" VerticalAlignment="Top" Width="180" Click="btn_aggiungiStudente2_Click"  />
+        <Button x:Name="btn_aggiungiDocente2" Content="aggiungi" HorizontalAlignment="Left" Height="64" Margin="344,317,0,0" VerticalAlignment="Top" Width="185" Click="btn_aggiungiDocente2_Click"/>
+        <Button x:Name="btn_aggiungiCollaboratore2" Content="aggiungi" HorizontalAlignment="Left" Height="55" Margin="571,326,0,0" VerticalAlignment="Top" Width="178" Click="btn_aggiungiCollaboratore2_Click"/>
+        <Button x:Name="btn_cambia" Content="cambia persona da aggiungere" HorizontalAlignment="Left" Height="34" Margin="571,270,0,0" VerticalAlignment="Top" Width="178" Click="btn_cambia_Click"/>
+        <TextBox x:Name="box_email" HorizontalAlignment="Left" Height="33" Margin="69,144,0,0" TextWrapping="Wrap" Text="inserisci nome" VerticalAlignment="Top" Width="98"/>
+
+    </Grid>
+</Window>
