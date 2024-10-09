@@ -22,7 +22,7 @@
         <Button x:Name="btn_aggiungiDocente2" Content="aggiungi" HorizontalAlignment="Left" Height="64" Margin="344,317,0,0" VerticalAlignment="Top" Width="185" Click="btn_aggiungiDocente2_Click"/>
         <Button x:Name="btn_aggiungiCollaboratore2" Content="aggiungi" HorizontalAlignment="Left" Height="55" Margin="571,326,0,0" VerticalAlignment="Top" Width="178" Click="btn_aggiungiCollaboratore2_Click"/>
         <Button x:Name="btn_cambia" Content="cambia persona da aggiungere" HorizontalAlignment="Left" Height="34" Margin="571,270,0,0" VerticalAlignment="Top" Width="178" Click="btn_cambia_Click"/>
-        <TextBox x:Name="box_email" HorizontalAlignment="Left" Height="33" Margin="69,144,0,0" TextWrapping="Wrap" Text="inserisci nome" VerticalAlignment="Top" Width="98"/>
+        <TextBox x:Name="box_email" HorizontalAlignment="Left" Height="33" Margin="182,254,0,0" TextWrapping="Wrap" Text="inserisci email" VerticalAlignment="Top" Width="98"/>
 
     </Grid>
 </Window>

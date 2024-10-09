@@ -11,6 +11,10 @@
       "RelativeMoniker": "D:0:0:{405A7BB2-E63D-48F4-AAA5-16E9303B74CF}|Scuola_WPF\\Scuola_WPF.csproj|solutionrelative:scuola_wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{405A7BB2-E63D-48F4-AAA5-16E9303B74CF}|Scuola_WPF\\Scuola_WPF.csproj|z:\\informatica\\informatica-git-hub\\scuola_wpf\\scuola_wpf\\scuola_wpf\\docente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{405A7BB2-E63D-48F4-AAA5-16E9303B74CF}|Scuola_WPF\\Scuola_WPF.csproj|solutionrelative:scuola_wpf\\docente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{405A7BB2-E63D-48F4-AAA5-16E9303B74CF}|Scuola_WPF\\Scuola_WPF.csproj|z:\\informatica\\informatica-git-hub\\scuola_wpf\\scuola_wpf\\scuola_wpf\\scuola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{405A7BB2-E63D-48F4-AAA5-16E9303B74CF}|Scuola_WPF\\Scuola_WPF.csproj|solutionrelative:scuola_wpf\\scuola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -25,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{405A7BB2-E63D-48F4-AAA5-16E9303B74CF}|Scuola_WPF\\Scuola_WPF.csproj|z:\\informatica\\informatica-git-hub\\scuola_wpf\\scuola_wpf\\scuola_wpf\\studente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{405A7BB2-E63D-48F4-AAA5-16E9303B74CF}|Scuola_WPF\\Scuola_WPF.csproj|solutionrelative:scuola_wpf\\studente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{405A7BB2-E63D-48F4-AAA5-16E9303B74CF}|Scuola_WPF\\Scuola_WPF.csproj|z:\\informatica\\informatica-git-hub\\scuola_wpf\\scuola_wpf\\scuola_wpf\\docente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{405A7BB2-E63D-48F4-AAA5-16E9303B74CF}|Scuola_WPF\\Scuola_WPF.csproj|solutionrelative:scuola_wpf\\docente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,21 +38,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 102,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CollaboratoreEsterno.cs",
-              "DocumentMoniker": "Z:\\INFORMATICA\\INFORMATICA-GIT-HUB\\Scuola_WPF\\Scuola_WPF\\Scuola_WPF\\CollaboratoreEsterno.cs",
-              "RelativeDocumentMoniker": "Scuola_WPF\\CollaboratoreEsterno.cs",
-              "ToolTip": "Z:\\INFORMATICA\\INFORMATICA-GIT-HUB\\Scuola_WPF\\Scuola_WPF\\Scuola_WPF\\CollaboratoreEsterno.cs",
-              "RelativeToolTip": "Scuola_WPF\\CollaboratoreEsterno.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T08:46:16.643Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -63,6 +50,7 @@
               "RelativeToolTip": "Scuola_WPF\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-10-07T19:03:26.78Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
@@ -73,53 +61,29 @@
               "RelativeDocumentMoniker": "Scuola_WPF\\MainWindow.xaml.cs",
               "ToolTip": "Z:\\INFORMATICA\\INFORMATICA-GIT-HUB\\Scuola_WPF\\Scuola_WPF\\Scuola_WPF\\MainWindow.xaml.cs",
               "RelativeToolTip": "Scuola_WPF\\MainWindow.xaml.cs",
-              "ViewState": "AQIAAMYAAAAAAAAAAAASwOQAAAAAAAAA",
+              "ViewState": "AQIAAJ0AAAAAAAAAAADgv7wAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-07T19:03:18.594Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Persona.cs",
-              "DocumentMoniker": "Z:\\INFORMATICA\\INFORMATICA-GIT-HUB\\Scuola_WPF\\Scuola_WPF\\Scuola_WPF\\Persona.cs",
-              "RelativeDocumentMoniker": "Scuola_WPF\\Persona.cs",
-              "ToolTip": "Z:\\INFORMATICA\\INFORMATICA-GIT-HUB\\Scuola_WPF\\Scuola_WPF\\Scuola_WPF\\Persona.cs",
-              "RelativeToolTip": "Scuola_WPF\\Persona.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAowDUAAABIAAAA",
+              "Title": "CollaboratoreEsterno.cs",
+              "DocumentMoniker": "Z:\\INFORMATICA\\INFORMATICA-GIT-HUB\\Scuola_WPF\\Scuola_WPF\\Scuola_WPF\\CollaboratoreEsterno.cs",
+              "RelativeDocumentMoniker": "Scuola_WPF\\CollaboratoreEsterno.cs",
+              "ToolTip": "Z:\\INFORMATICA\\INFORMATICA-GIT-HUB\\Scuola_WPF\\Scuola_WPF\\Scuola_WPF\\CollaboratoreEsterno.cs",
+              "RelativeToolTip": "Scuola_WPF\\CollaboratoreEsterno.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T19:04:00.072Z",
+              "WhenOpened": "2024-10-08T08:46:16.643Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Studente.cs",
-              "DocumentMoniker": "Z:\\INFORMATICA\\INFORMATICA-GIT-HUB\\Scuola_WPF\\Scuola_WPF\\Scuola_WPF\\Studente.cs",
-              "RelativeDocumentMoniker": "Scuola_WPF\\Studente.cs",
-              "ToolTip": "Z:\\INFORMATICA\\INFORMATICA-GIT-HUB\\Scuola_WPF\\Scuola_WPF\\Scuola_WPF\\Studente.cs",
-              "RelativeToolTip": "Scuola_WPF\\Studente.cs",
-              "ViewState": "AQIAAC8AAAAAAAAAAAAIwD0AAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T19:04:16.79Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Docente.cs",
-              "DocumentMoniker": "Z:\\INFORMATICA\\INFORMATICA-GIT-HUB\\Scuola_WPF\\Scuola_WPF\\Scuola_WPF\\Docente.cs",
-              "RelativeDocumentMoniker": "Scuola_WPF\\Docente.cs",
-              "ToolTip": "Z:\\INFORMATICA\\INFORMATICA-GIT-HUB\\Scuola_WPF\\Scuola_WPF\\Scuola_WPF\\Docente.cs",
-              "RelativeToolTip": "Scuola_WPF\\Docente.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAowCoAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T20:24:18.227Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Scuola.cs",
               "DocumentMoniker": "Z:\\INFORMATICA\\INFORMATICA-GIT-HUB\\Scuola_WPF\\Scuola_WPF\\Scuola_WPF\\Scuola.cs",
               "RelativeDocumentMoniker": "Scuola_WPF\\Scuola.cs",
@@ -128,6 +92,48 @@
               "ViewState": "AQIAABgAAAAAAAAAAAAowDMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-07T19:04:37.549Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Docente.cs",
+              "DocumentMoniker": "Z:\\INFORMATICA\\INFORMATICA-GIT-HUB\\Scuola_WPF\\Scuola_WPF\\Scuola_WPF\\Docente.cs",
+              "RelativeDocumentMoniker": "Scuola_WPF\\Docente.cs",
+              "ToolTip": "Z:\\INFORMATICA\\INFORMATICA-GIT-HUB\\Scuola_WPF\\Scuola_WPF\\Scuola_WPF\\Docente.cs",
+              "RelativeToolTip": "Scuola_WPF\\Docente.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowCoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T20:24:18.227Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Studente.cs",
+              "DocumentMoniker": "Z:\\INFORMATICA\\INFORMATICA-GIT-HUB\\Scuola_WPF\\Scuola_WPF\\Scuola_WPF\\Studente.cs",
+              "RelativeDocumentMoniker": "Scuola_WPF\\Studente.cs",
+              "ToolTip": "Z:\\INFORMATICA\\INFORMATICA-GIT-HUB\\Scuola_WPF\\Scuola_WPF\\Scuola_WPF\\Studente.cs",
+              "RelativeToolTip": "Scuola_WPF\\Studente.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAIwD0AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T19:04:16.79Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "Z:\\INFORMATICA\\INFORMATICA-GIT-HUB\\Scuola_WPF\\Scuola_WPF\\Scuola_WPF\\Persona.cs",
+              "RelativeDocumentMoniker": "Scuola_WPF\\Persona.cs",
+              "ToolTip": "Z:\\INFORMATICA\\INFORMATICA-GIT-HUB\\Scuola_WPF\\Scuola_WPF\\Scuola_WPF\\Persona.cs",
+              "RelativeToolTip": "Scuola_WPF\\Persona.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowDUAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T19:04:00.072Z",
+              "IsPinned": true,
               "EditorCaption": ""
             }
           ]
