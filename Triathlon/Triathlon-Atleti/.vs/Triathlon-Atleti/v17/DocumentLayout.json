@@ -1,35 +1,31 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Leonardo.Lessi\\source\\repos\\Triathlon-Atleti\\",
+  "WorkspaceRootPath": "Z:\\INFORMATICA\\INFORMATICA-GIT-HUB\\Triathlon\\Triathlon-Atleti\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B0AC84E0-4650-4A38-9CB5-6276B42761E7}|..\\LetturaFile\\ReadingFile.csproj|c:\\users\\leonardo.lessi\\source\\repos\\letturafile\\readingfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{08EA3FAD-154F-44E8-8220-A7774ED526C2}|..\\Program\\Program.csproj|z:\\informatica\\informatica-git-hub\\triathlon\\program\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5F3CCFB-55A0-481F-A123-C2B0B6BDDC1A}|..\\Tests\\Tests.csproj|c:\\users\\leonardo.lessi\\source\\repos\\tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D5F3CCFB-55A0-481F-A123-C2B0B6BDDC1A}|..\\Tests\\Tests.csproj|z:\\informatica\\informatica-git-hub\\triathlon\\tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8FBA5134-99CE-4B7D-93D9-2797258EF589}|TriathlonAthletes.csproj|c:\\users\\leonardo.lessi\\source\\repos\\triathlon-atleti\\triathlonathletes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{8FBA5134-99CE-4B7D-93D9-2797258EF589}|TriathlonAthletes.csproj|solutionrelative:triathlonathletes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08EA3FAD-154F-44E8-8220-A7774ED526C2}|..\\Program\\Program.csproj|c:\\users\\leonardo.lessi\\source\\repos\\program\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8FBA5134-99CE-4B7D-93D9-2797258EF589}|TriathlonAthletes.csproj|c:\\users\\leonardo.lessi\\source\\repos\\triathlon-atleti\\race.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FBA5134-99CE-4B7D-93D9-2797258EF589}|TriathlonAthletes.csproj|solutionrelative:race.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8FBA5134-99CE-4B7D-93D9-2797258EF589}|TriathlonAthletes.csproj|c:\\users\\leonardo.lessi\\source\\repos\\triathlon-atleti\\triathlonfinalist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FBA5134-99CE-4B7D-93D9-2797258EF589}|TriathlonAthletes.csproj|solutionrelative:triathlonfinalist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8FBA5134-99CE-4B7D-93D9-2797258EF589}|TriathlonAthletes.csproj|c:\\users\\leonardo.lessi\\source\\repos\\triathlon-atleti\\triathlonparticipant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8FBA5134-99CE-4B7D-93D9-2797258EF589}|TriathlonAthletes.csproj|z:\\informatica\\informatica-git-hub\\triathlon\\triathlon-atleti\\triathlonparticipant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8FBA5134-99CE-4B7D-93D9-2797258EF589}|TriathlonAthletes.csproj|solutionrelative:triathlonparticipant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8FBA5134-99CE-4B7D-93D9-2797258EF589}|TriathlonAthletes.csproj|c:\\users\\leonardo.lessi\\source\\repos\\triathlon-atleti\\athlete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8FBA5134-99CE-4B7D-93D9-2797258EF589}|TriathlonAthletes.csproj|z:\\informatica\\informatica-git-hub\\triathlon\\triathlon-atleti\\athlete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8FBA5134-99CE-4B7D-93D9-2797258EF589}|TriathlonAthletes.csproj|solutionrelative:athlete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0AC84E0-4650-4A38-9CB5-6276B42761E7}|..\\LetturaFile\\ReadingFile.csproj|z:\\informatica\\informatica-git-hub\\triathlon\\letturafile\\readingfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FBA5134-99CE-4B7D-93D9-2797258EF589}|TriathlonAthletes.csproj|z:\\informatica\\informatica-git-hub\\triathlon\\triathlon-atleti\\race.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FBA5134-99CE-4B7D-93D9-2797258EF589}|TriathlonAthletes.csproj|solutionrelative:race.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FBA5134-99CE-4B7D-93D9-2797258EF589}|TriathlonAthletes.csproj|z:\\informatica\\informatica-git-hub\\triathlon\\triathlon-atleti\\triathlonfinalist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FBA5134-99CE-4B7D-93D9-2797258EF589}|TriathlonAthletes.csproj|solutionrelative:triathlonfinalist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,105 +35,99 @@
       "DocumentGroups": [
         {
           "DockedWidth": 102,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "UnitTest1.cs",
-              "DocumentMoniker": "C:\\Users\\Leonardo.Lessi\\source\\repos\\Tests\\UnitTest1.cs",
+              "DocumentMoniker": "Z:\\INFORMATICA\\INFORMATICA-GIT-HUB\\Triathlon\\Tests\\UnitTest1.cs",
               "RelativeDocumentMoniker": "..\\Tests\\UnitTest1.cs",
-              "ToolTip": "C:\\Users\\Leonardo.Lessi\\source\\repos\\Tests\\UnitTest1.cs",
+              "ToolTip": "Z:\\INFORMATICA\\INFORMATICA-GIT-HUB\\Triathlon\\Tests\\UnitTest1.cs",
               "RelativeToolTip": "..\\Tests\\UnitTest1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T06:46:06.532Z",
+              "WhenOpened": "2024-10-16T07:06:20.09Z",
               "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TriathlonAthletes.csproj",
-              "DocumentMoniker": "C:\\Users\\Leonardo.Lessi\\source\\repos\\Triathlon-Atleti\\TriathlonAthletes.csproj",
-              "RelativeDocumentMoniker": "TriathlonAthletes.csproj",
-              "ToolTip": "C:\\Users\\Leonardo.Lessi\\source\\repos\\Triathlon-Atleti\\TriathlonAthletes.csproj",
-              "RelativeToolTip": "TriathlonAthletes.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-09T06:44:21.652Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Leonardo.Lessi\\source\\repos\\Program\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Program\\Program.cs",
-              "ToolTip": "C:\\Users\\Leonardo.Lessi\\source\\repos\\Program\\Program.cs",
-              "RelativeToolTip": "..\\Program\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T06:42:46.487Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ReadingFile.cs",
-              "DocumentMoniker": "C:\\Users\\Leonardo.Lessi\\source\\repos\\LetturaFile\\ReadingFile.cs",
-              "RelativeDocumentMoniker": "..\\LetturaFile\\ReadingFile.cs",
-              "ToolTip": "C:\\Users\\Leonardo.Lessi\\source\\repos\\LetturaFile\\ReadingFile.cs",
-              "RelativeToolTip": "..\\LetturaFile\\ReadingFile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAJAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "Z:\\INFORMATICA\\INFORMATICA-GIT-HUB\\Triathlon\\Program\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Program\\Program.cs",
+              "ToolTip": "Z:\\INFORMATICA\\INFORMATICA-GIT-HUB\\Triathlon\\Program\\Program.cs",
+              "RelativeToolTip": "..\\Program\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T06:43:59.051Z",
+              "WhenOpened": "2024-10-16T06:24:39.943Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Race.cs",
-              "DocumentMoniker": "C:\\Users\\Leonardo.Lessi\\source\\repos\\Triathlon-Atleti\\Race.cs",
-              "RelativeDocumentMoniker": "Race.cs",
-              "ToolTip": "C:\\Users\\Leonardo.Lessi\\source\\repos\\Triathlon-Atleti\\Race.cs",
-              "RelativeToolTip": "Race.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Title": "ReadingFile.cs",
+              "DocumentMoniker": "Z:\\INFORMATICA\\INFORMATICA-GIT-HUB\\Triathlon\\LetturaFile\\ReadingFile.cs",
+              "RelativeDocumentMoniker": "..\\LetturaFile\\ReadingFile.cs",
+              "ToolTip": "Z:\\INFORMATICA\\INFORMATICA-GIT-HUB\\Triathlon\\LetturaFile\\ReadingFile.cs",
+              "RelativeToolTip": "..\\LetturaFile\\ReadingFile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEgAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T06:50:33.295Z"
+              "WhenOpened": "2024-10-16T06:20:27.628Z",
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "TriathlonFinalist.cs",
-              "DocumentMoniker": "C:\\Users\\Leonardo.Lessi\\source\\repos\\Triathlon-Atleti\\TriathlonFinalist.cs",
-              "RelativeDocumentMoniker": "TriathlonFinalist.cs",
-              "ToolTip": "C:\\Users\\Leonardo.Lessi\\source\\repos\\Triathlon-Atleti\\TriathlonFinalist.cs",
-              "RelativeToolTip": "TriathlonFinalist.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Title": "Race.cs",
+              "DocumentMoniker": "Z:\\INFORMATICA\\INFORMATICA-GIT-HUB\\Triathlon\\Triathlon-Atleti\\Race.cs",
+              "RelativeDocumentMoniker": "Race.cs",
+              "ToolTip": "Z:\\INFORMATICA\\INFORMATICA-GIT-HUB\\Triathlon\\Triathlon-Atleti\\Race.cs",
+              "RelativeToolTip": "Race.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T06:53:07.439Z"
+              "WhenOpened": "2024-10-09T06:50:33.295Z",
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "TriathlonParticipant.cs",
-              "DocumentMoniker": "C:\\Users\\Leonardo.Lessi\\source\\repos\\Triathlon-Atleti\\TriathlonParticipant.cs",
-              "RelativeDocumentMoniker": "TriathlonParticipant.cs",
-              "ToolTip": "C:\\Users\\Leonardo.Lessi\\source\\repos\\Triathlon-Atleti\\TriathlonParticipant.cs",
-              "RelativeToolTip": "TriathlonParticipant.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Title": "TriathlonFinalist.cs",
+              "DocumentMoniker": "Z:\\INFORMATICA\\INFORMATICA-GIT-HUB\\Triathlon\\Triathlon-Atleti\\TriathlonFinalist.cs",
+              "RelativeDocumentMoniker": "TriathlonFinalist.cs",
+              "ToolTip": "Z:\\INFORMATICA\\INFORMATICA-GIT-HUB\\Triathlon\\Triathlon-Atleti\\TriathlonFinalist.cs",
+              "RelativeToolTip": "TriathlonFinalist.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAABxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T06:52:44.917Z"
+              "WhenOpened": "2024-10-09T06:53:07.439Z",
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Athlete.cs",
-              "DocumentMoniker": "C:\\Users\\Leonardo.Lessi\\source\\repos\\Triathlon-Atleti\\Athlete.cs",
-              "RelativeDocumentMoniker": "Athlete.cs",
-              "ToolTip": "C:\\Users\\Leonardo.Lessi\\source\\repos\\Triathlon-Atleti\\Athlete.cs",
-              "RelativeToolTip": "Athlete.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAKAAAA",
+              "DocumentIndex": 2,
+              "Title": "TriathlonParticipant.cs",
+              "DocumentMoniker": "Z:\\INFORMATICA\\INFORMATICA-GIT-HUB\\Triathlon\\Triathlon-Atleti\\TriathlonParticipant.cs",
+              "RelativeDocumentMoniker": "TriathlonParticipant.cs",
+              "ToolTip": "Z:\\INFORMATICA\\INFORMATICA-GIT-HUB\\Triathlon\\Triathlon-Atleti\\TriathlonParticipant.cs",
+              "RelativeToolTip": "TriathlonParticipant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAABZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T06:40:39.646Z"
+              "WhenOpened": "2024-10-09T06:52:44.917Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Athlete.cs",
+              "DocumentMoniker": "Z:\\INFORMATICA\\INFORMATICA-GIT-HUB\\Triathlon\\Triathlon-Atleti\\Athlete.cs",
+              "RelativeDocumentMoniker": "Athlete.cs",
+              "ToolTip": "Z:\\INFORMATICA\\INFORMATICA-GIT-HUB\\Triathlon\\Triathlon-Atleti\\Athlete.cs",
+              "RelativeToolTip": "Athlete.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T06:40:39.646Z",
+              "IsPinned": true
             }
           ]
         }

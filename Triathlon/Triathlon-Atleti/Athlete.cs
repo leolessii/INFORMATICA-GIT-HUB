@@ -6,7 +6,7 @@
         protected string _surname;
         protected string _id;
 
-        public string Name
+        protected string Name
         {
             get { return _name; }
             set
@@ -16,7 +16,7 @@
             }
         }
 
-        public string Surname
+        protected string Surname
         {
             get { return _surname; }
             set
@@ -26,7 +26,7 @@
             }
         }
 
-        public string Id
+        protected string Id
         {
             get { return _id; }
             set

@@ -29,18 +29,24 @@ namespace Triathlon_Atleti
 
         public string TriathlonParticipantsList()
         {
+            string list = string.Empty;
             for(int i = 0; i < triathlonParticipant_.Count; i++)
             {
-                return triathlonParticipant_[i].ToString();
+                list += triathlonParticipant_[i].ToString();
+                list += ";";
             }
+            return list;    
         }
 
         public string TriathlonFinalistsList()
         {
+            string list = string.Empty;
             for (int i = 0; i < triathlonFinalist_.Count; i++)
             {
-                return triathlonFinalist_[i].ToString();
+                list += triathlonFinalist_[i].ToString();
+                list += ";";
             }
+            return list;
         }
     }
 }

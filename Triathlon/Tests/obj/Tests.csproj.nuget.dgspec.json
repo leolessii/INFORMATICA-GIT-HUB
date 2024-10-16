@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\daria\\OneDrive\\Desktop\\Triathlon\\Tests\\Tests.csproj": {}
+    "Z:\\INFORMATICA\\INFORMATICA-GIT-HUB\\Triathlon\\Tests\\Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\daria\\OneDrive\\Desktop\\Triathlon\\LetturaFile\\ReadingFile.csproj": {
+    "Z:\\INFORMATICA\\INFORMATICA-GIT-HUB\\Triathlon\\LetturaFile\\ReadingFile.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\daria\\OneDrive\\Desktop\\Triathlon\\LetturaFile\\ReadingFile.csproj",
+        "projectUniqueName": "Z:\\INFORMATICA\\INFORMATICA-GIT-HUB\\Triathlon\\LetturaFile\\ReadingFile.csproj",
         "projectName": "ReadingFile",
-        "projectPath": "C:\\Users\\daria\\OneDrive\\Desktop\\Triathlon\\LetturaFile\\ReadingFile.csproj",
-        "packagesPath": "C:\\Users\\daria\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\daria\\OneDrive\\Desktop\\Triathlon\\LetturaFile\\obj\\",
+        "projectPath": "Z:\\INFORMATICA\\INFORMATICA-GIT-HUB\\Triathlon\\LetturaFile\\ReadingFile.csproj",
+        "packagesPath": "C:\\Users\\Leonardo.Lessi\\.nuget\\packages\\",
+        "outputPath": "Z:\\INFORMATICA\\INFORMATICA-GIT-HUB\\Triathlon\\LetturaFile\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\daria\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Leonardo.Lessi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,14 +26,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\daria\\OneDrive\\Desktop\\Triathlon\\Triathlon-Atleti\\TriathlonAthletes.csproj": {
-                "projectPath": "C:\\Users\\daria\\OneDrive\\Desktop\\Triathlon\\Triathlon-Atleti\\TriathlonAthletes.csproj"
+              "Z:\\INFORMATICA\\INFORMATICA-GIT-HUB\\Triathlon\\Triathlon-Atleti\\TriathlonAthletes.csproj": {
+                "projectPath": "Z:\\INFORMATICA\\INFORMATICA-GIT-HUB\\Triathlon\\Triathlon-Atleti\\TriathlonAthletes.csproj"
               }
             }
           }
@@ -38,6 +43,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -54,21 +64,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\daria\\OneDrive\\Desktop\\Triathlon\\Program\\Program.csproj": {
+    "Z:\\INFORMATICA\\INFORMATICA-GIT-HUB\\Triathlon\\Program\\Program.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\daria\\OneDrive\\Desktop\\Triathlon\\Program\\Program.csproj",
+        "projectUniqueName": "Z:\\INFORMATICA\\INFORMATICA-GIT-HUB\\Triathlon\\Program\\Program.csproj",
         "projectName": "Program",
-        "projectPath": "C:\\Users\\daria\\OneDrive\\Desktop\\Triathlon\\Program\\Program.csproj",
-        "packagesPath": "C:\\Users\\daria\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\daria\\OneDrive\\Desktop\\Triathlon\\Program\\obj\\",
+        "projectPath": "Z:\\INFORMATICA\\INFORMATICA-GIT-HUB\\Triathlon\\Program\\Program.csproj",
+        "packagesPath": "C:\\Users\\Leonardo.Lessi\\.nuget\\packages\\",
+        "outputPath": "Z:\\INFORMATICA\\INFORMATICA-GIT-HUB\\Triathlon\\Program\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\daria\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Leonardo.Lessi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -76,17 +95,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\daria\\OneDrive\\Desktop\\Triathlon\\LetturaFile\\ReadingFile.csproj": {
-                "projectPath": "C:\\Users\\daria\\OneDrive\\Desktop\\Triathlon\\LetturaFile\\ReadingFile.csproj"
+              "Z:\\INFORMATICA\\INFORMATICA-GIT-HUB\\Triathlon\\LetturaFile\\ReadingFile.csproj": {
+                "projectPath": "Z:\\INFORMATICA\\INFORMATICA-GIT-HUB\\Triathlon\\LetturaFile\\ReadingFile.csproj"
               },
-              "C:\\Users\\daria\\OneDrive\\Desktop\\Triathlon\\Triathlon-Atleti\\TriathlonAthletes.csproj": {
-                "projectPath": "C:\\Users\\daria\\OneDrive\\Desktop\\Triathlon\\Triathlon-Atleti\\TriathlonAthletes.csproj"
+              "Z:\\INFORMATICA\\INFORMATICA-GIT-HUB\\Triathlon\\Triathlon-Atleti\\TriathlonAthletes.csproj": {
+                "projectPath": "Z:\\INFORMATICA\\INFORMATICA-GIT-HUB\\Triathlon\\Triathlon-Atleti\\TriathlonAthletes.csproj"
               }
             }
           }
@@ -95,6 +115,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -111,21 +136,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\daria\\OneDrive\\Desktop\\Triathlon\\Tests\\Tests.csproj": {
+    "Z:\\INFORMATICA\\INFORMATICA-GIT-HUB\\Triathlon\\Tests\\Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\daria\\OneDrive\\Desktop\\Triathlon\\Tests\\Tests.csproj",
+        "projectUniqueName": "Z:\\INFORMATICA\\INFORMATICA-GIT-HUB\\Triathlon\\Tests\\Tests.csproj",
         "projectName": "Tests",
-        "projectPath": "C:\\Users\\daria\\OneDrive\\Desktop\\Triathlon\\Tests\\Tests.csproj",
-        "packagesPath": "C:\\Users\\daria\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\daria\\OneDrive\\Desktop\\Triathlon\\Tests\\obj\\",
+        "projectPath": "Z:\\INFORMATICA\\INFORMATICA-GIT-HUB\\Triathlon\\Tests\\Tests.csproj",
+        "packagesPath": "C:\\Users\\Leonardo.Lessi\\.nuget\\packages\\",
+        "outputPath": "Z:\\INFORMATICA\\INFORMATICA-GIT-HUB\\Triathlon\\Tests\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\daria\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Leonardo.Lessi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -133,20 +167,21 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\daria\\OneDrive\\Desktop\\Triathlon\\LetturaFile\\ReadingFile.csproj": {
-                "projectPath": "C:\\Users\\daria\\OneDrive\\Desktop\\Triathlon\\LetturaFile\\ReadingFile.csproj"
+              "Z:\\INFORMATICA\\INFORMATICA-GIT-HUB\\Triathlon\\LetturaFile\\ReadingFile.csproj": {
+                "projectPath": "Z:\\INFORMATICA\\INFORMATICA-GIT-HUB\\Triathlon\\LetturaFile\\ReadingFile.csproj"
               },
-              "C:\\Users\\daria\\OneDrive\\Desktop\\Triathlon\\Program\\Program.csproj": {
-                "projectPath": "C:\\Users\\daria\\OneDrive\\Desktop\\Triathlon\\Program\\Program.csproj"
+              "Z:\\INFORMATICA\\INFORMATICA-GIT-HUB\\Triathlon\\Program\\Program.csproj": {
+                "projectPath": "Z:\\INFORMATICA\\INFORMATICA-GIT-HUB\\Triathlon\\Program\\Program.csproj"
               },
-              "C:\\Users\\daria\\OneDrive\\Desktop\\Triathlon\\Triathlon-Atleti\\TriathlonAthletes.csproj": {
-                "projectPath": "C:\\Users\\daria\\OneDrive\\Desktop\\Triathlon\\Triathlon-Atleti\\TriathlonAthletes.csproj"
+              "Z:\\INFORMATICA\\INFORMATICA-GIT-HUB\\Triathlon\\Triathlon-Atleti\\TriathlonAthletes.csproj": {
+                "projectPath": "Z:\\INFORMATICA\\INFORMATICA-GIT-HUB\\Triathlon\\Triathlon-Atleti\\TriathlonAthletes.csproj"
               }
             }
           }
@@ -155,11 +190,34 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.8.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -171,21 +229,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\daria\\OneDrive\\Desktop\\Triathlon\\Triathlon-Atleti\\TriathlonAthletes.csproj": {
+    "Z:\\INFORMATICA\\INFORMATICA-GIT-HUB\\Triathlon\\Triathlon-Atleti\\TriathlonAthletes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\daria\\OneDrive\\Desktop\\Triathlon\\Triathlon-Atleti\\TriathlonAthletes.csproj",
+        "projectUniqueName": "Z:\\INFORMATICA\\INFORMATICA-GIT-HUB\\Triathlon\\Triathlon-Atleti\\TriathlonAthletes.csproj",
         "projectName": "TriathlonAthletes",
-        "projectPath": "C:\\Users\\daria\\OneDrive\\Desktop\\Triathlon\\Triathlon-Atleti\\TriathlonAthletes.csproj",
-        "packagesPath": "C:\\Users\\daria\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\daria\\OneDrive\\Desktop\\Triathlon\\Triathlon-Atleti\\obj\\",
+        "projectPath": "Z:\\INFORMATICA\\INFORMATICA-GIT-HUB\\Triathlon\\Triathlon-Atleti\\TriathlonAthletes.csproj",
+        "packagesPath": "C:\\Users\\Leonardo.Lessi\\.nuget\\packages\\",
+        "outputPath": "Z:\\INFORMATICA\\INFORMATICA-GIT-HUB\\Triathlon\\Triathlon-Atleti\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\daria\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Leonardo.Lessi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -193,6 +260,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -205,6 +273,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -221,7 +294,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

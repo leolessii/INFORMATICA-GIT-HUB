@@ -1,4 +1,5 @@
-﻿using Triathlon_Atleti;
+﻿using System.Text;
+using Triathlon_Atleti;
 namespace ReadingFile
 {
     
@@ -15,7 +16,7 @@ namespace ReadingFile
 
         public void Readfile()
         {
-            using (StramReader s = new StramReader(filePath))
+            using (StreamReader s = new StreamReader(filePath))
             {
                 string line;
 
@@ -28,44 +29,48 @@ namespace ReadingFile
                     string n2;
                     string n3;
 
-                    id = line.Split('');
-                    name = line.Split('');
-                    surname = line.Split('');
+                    id = line.Split(" ")[0];
+                    name = line.Split(" ")[1];
+                    surname = line.Split(" ")[2];
 
                     try
                     {
-                        n1 = line.Split('');
-                        Convert.ToInt32(n1);
+                        n1 = line.Split(" ")[3];
+                        int swim = Convert.ToInt32(n1);
+
+                        try
+                        {
+                            n2 = line.Split(" ")[4];
+                            int bike = Convert.ToInt32(n2);
+
+                            try
+                            {
+                                n3 = line.Split(" ")[5];
+                                int run =Convert.ToInt32(n3);
+
+                                TriathlonFinalist tf = new TriathlonFinalist(name, surname, id, swim, bike, run);
+                                break;
+                            }
+                            catch
+                            {
+                                TriathlonParticipant tp = new TriathlonParticipant(name, surname, id, swim, bike);
+                                triathlonParticipants.Add(tp);
+                                break;
+                            }
+                        }
+                        catch
+                        {
+                            TriathlonParticipant tp = new TriathlonParticipant(name, surname, id, swim);
+                            triathlonParticipants.Add(tp);
+                            break;
+                        }
                     }
                     catch
                     {
-                        TriatlonParticipant tp = new TriatlonParticipant(name, surname, id);
+                        TriathlonParticipant tp = new TriathlonParticipant(name, surname, id);
                         triathlonParticipants.Add(tp);
+                        break;
                     }
-
-                    try
-                    {
-                        n2 = line.Split('');
-                        Convert.ToInt32(n2);
-                    }
-                    catch
-                    {
-                        TriatlonParticipant tp = new TriatlonParticipant(name, surname, id, n1);
-                        triathlonParticipants.Add(tp);
-                    }
-
-                    try
-                    {
-                        n3 = line.Split('');
-                        Convert.ToInt32(n3);
-                    }
-                    catch
-                    {
-                        TriatlonParticipant tp = new TriatlonParticipant(name, surname, id, n1, n2);
-                        triathlonParticipants.Add(tp);
-                    }
-
-                    TriathlonFinalist tf = new TriathlonFinalist(name, surname, id, n1, n2, n3);
                 }
             }
         }

@@ -29,13 +29,13 @@ namespace Triathlon_Atleti
             }
         }
 
-        public TriathlonParticipant(int swimTime, int bikeTime, string name, string lastName, string id) : base (name, lastName, id)
+        public TriathlonParticipant(string name, string lastName, string id, int swimTime, int bikeTime) : base (name, lastName, id)
         {
             _swimTime=swimTime;
             _bikeTime=bikeTime;
         }
 
-        public TriathlonParticipant(int swimTime, string name, string lastName, string id) : base(name, lastName, id)
+        public TriathlonParticipant(string name, string lastName, string id, int swimTime) : base(name, lastName, id)
         {
             _swimTime = swimTime;
             _bikeTime = null;
@@ -52,9 +52,9 @@ namespace Triathlon_Atleti
             return null;
         }
 
-        public override ToString()
+        public override string ToString()
         {
-            return $" Name: {TriathlonParticipant.Name}, Surname: {TriathlonParticipant.Surname}, Id: {TriathlonParticipant.Id}, Swim time: {TriathlonParticipant.SwimTime}, Bike Time: {TriathlonParticipant.BikeTime} ";
+            return $" Name: {Name}, Surname: {Surname}, Id: {Id}, Swim time: {SwimTime}, Bike Time: {BikeTime} ";
         }
     }
 }

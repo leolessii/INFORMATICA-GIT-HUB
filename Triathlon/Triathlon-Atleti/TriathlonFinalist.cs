@@ -19,7 +19,7 @@ namespace Triathlon_Atleti
             }
         }
 
-        public TriathlonFinalist(int swimTime, int bikeTime, int runTime, string name, string lastName, string id) : base(name, lastName, id)
+        public TriathlonFinalist(string name, string lastName, string id, int swimTime, int bikeTime, int runTime) : base(name, lastName, id)
         {
             _runTime = runTime;
         }
@@ -29,9 +29,9 @@ namespace Triathlon_Atleti
             return SwimTime+BikeTime+RunTime;
         }
 
-        public override ToString()
+        public override string ToString()
         {
-            return $" Name: {TriathlonFinalist.Name}, Surname: {TriathlonFinalist.Surname}, Id: {TriathlonFinalist.Id}, Swim time: {TriathlonFinalist.SwimTime}, Bike Time: {TriathlonFinalist.BikeTime}, Run time {TriathlonFinalist.RunTime} ";
+            return $" Name: {Name}, Surname: {Surname}, Id: {Id}, Swim time: {SwimTime}, Bike Time: {BikeTime}, Run time {RunTime} ";
         }
     }
 }
