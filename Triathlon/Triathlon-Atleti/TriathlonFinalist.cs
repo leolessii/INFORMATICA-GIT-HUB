@@ -28,5 +28,10 @@ namespace Triathlon_Atleti
         {
             return SwimTime+BikeTime+RunTime;
         }
+
+        public override ToString()
+        {
+            return $" Name: {TriathlonFinalist.Name}, Surname: {TriathlonFinalist.Surname}, Id: {TriathlonFinalist.Id}, Swim time: {TriathlonFinalist.SwimTime}, Bike Time: {TriathlonFinalist.BikeTime}, Run time {TriathlonFinalist.RunTime} ";
+        }
     }
 }

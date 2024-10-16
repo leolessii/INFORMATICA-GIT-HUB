@@ -8,19 +8,12 @@ namespace Scuola_WPF
 {
     internal class Scuola
     {
-        
-        private List<Studente> _studenti;
-        private List<Docente> _docenti;
+        private List<Classe> _classi;
         private List<CollaboratoreEsterno> _collaboratori;
 
-        public List<Studente> Studenti
+        public List<Classe> Classi
         {
-            get { return _studenti; }
-        }
-
-        public List<Docente> Docenti
-        {
-            get { return _docenti; }
+            get { return _classi; }
         }
 
         public List<CollaboratoreEsterno> Collaboratori
@@ -30,19 +23,13 @@ namespace Scuola_WPF
 
         public Scuola()
         {
-             _studenti = new List<Studente>();
-             _docenti = new List<Docente>();
+             _classi = new List<Classe>();
              _collaboratori = new List<CollaboratoreEsterno>();
         }
 
-        public void AggiungiStudente(Studente studente)
+        public void AggiugniClasse(Classe c)
         {
-            _studenti.Add(studente);
-        }
-
-        public void AggiungiDocente(Docente docente)
-        {
-            _docenti.Add(docente);
+            _classi.Add(c);
         }
 
         public void AggiungiCollaboratore(CollaboratoreEsterno collaboratore)

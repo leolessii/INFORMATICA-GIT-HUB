@@ -5,24 +5,31 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Scuola_WPF"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="475" Width="800">
     <Grid>
-        <Button x:Name="btn_aggiungiStudente" Content="aggiungi studente" HorizontalAlignment="Left" Height="82" Margin="79,39,0,0" VerticalAlignment="Top" Width="136" Click="btn_aggiungiStudente_Click"/>
-        <Button x:Name="btn_aggiungiDocente" Content="aggiungi docente" HorizontalAlignment="Center" Height="82" Margin="0,39,0,0" VerticalAlignment="Top" Width="144" Click="btn_aggiungiDocente_Click"/>
-        <Button x:Name="btn_aggiungiCollaboratore" Content="aggiungi collaboratore" HorizontalAlignment="Left" Height="82" Margin="571,39,0,0" VerticalAlignment="Top" Width="156" Click="btn_aggiungiCollaboratore_Click"/>
-        <TextBox x:Name="box_nome" HorizontalAlignment="Left" Height="33" Margin="69,144,0,0" TextWrapping="Wrap" Text="inserisci nome" VerticalAlignment="Top" Width="98"/>
-        <TextBox x:Name="box_cognome" HorizontalAlignment="Left" Height="38" Margin="69,0,0,0" TextWrapping="Wrap" Text="inserisci cognome" VerticalAlignment="Center" Width="98"/>
-        <TextBox x:Name="box_codiceFiscale" HorizontalAlignment="Left" Height="37" Margin="69,251,0,0" TextWrapping="Wrap" Text="inserisci codice fiscale" VerticalAlignment="Top" Width="108"/>
-        <TextBox x:Name="box_matricola" HorizontalAlignment="Left" Height="33" Margin="328,144,0,0" TextWrapping="Wrap" Text="inserisci matricola" VerticalAlignment="Top" Width="109"/>
-        <TextBox x:Name="box_classe" HorizontalAlignment="Left" Height="38" Margin="328,0,0,0" TextWrapping="Wrap" Text="inserisci classe" VerticalAlignment="Center" Width="109"/>
-        <TextBox x:Name="box_sezione" HorizontalAlignment="Left" Height="37" Margin="328,251,0,0" TextWrapping="Wrap" Text="inserisci sezione" VerticalAlignment="Top" Width="118"/>
-        <TextBox x:Name="box_materia" HorizontalAlignment="Left" Height="42" Margin="547,144,0,0" TextWrapping="Wrap" Text="inserisci materia" VerticalAlignment="Top" Width="114"/>
-        <TextBox x:Name="box_salario" HorizontalAlignment="Left" Height="28" Margin="547,208,0,0" TextWrapping="Wrap" Text="inserisci salario" VerticalAlignment="Top" Width="130"/>
-        <Button x:Name="btn_aggiungiStudente2" Content="aggiungi" HorizontalAlignment="Left" Height="64" Margin="108,317,0,0" VerticalAlignment="Top" Width="180" Click="btn_aggiungiStudente2_Click"  />
-        <Button x:Name="btn_aggiungiDocente2" Content="aggiungi" HorizontalAlignment="Left" Height="64" Margin="344,317,0,0" VerticalAlignment="Top" Width="185" Click="btn_aggiungiDocente2_Click"/>
-        <Button x:Name="btn_aggiungiCollaboratore2" Content="aggiungi" HorizontalAlignment="Left" Height="55" Margin="571,326,0,0" VerticalAlignment="Top" Width="178" Click="btn_aggiungiCollaboratore2_Click"/>
-        <Button x:Name="btn_cambia" Content="cambia persona da aggiungere" HorizontalAlignment="Left" Height="34" Margin="571,270,0,0" VerticalAlignment="Top" Width="178" Click="btn_cambia_Click"/>
-        <TextBox x:Name="box_email" HorizontalAlignment="Left" Height="33" Margin="182,254,0,0" TextWrapping="Wrap" Text="inserisci email" VerticalAlignment="Top" Width="98"/>
-
+        <Grid.Background>
+            <ImageBrush ImageSource="/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.jpg"/>
+        </Grid.Background>
+        <Rectangle Stroke="Black" Fill="White" Opacity="0.4"/>
+        <Button x:Name="btn_AggiugniClasse" Content="Aggiungi Classe" Margin="10,10,646,378" BorderBrush="Black" Background="{x:Null}" Click="btn_AggiugniClasse_Click"/>
+        <Button x:Name="btn_AggiugniDocente" Content="Aggiungi Docente" Margin="308,10,348,378" BorderBrush="Black" Background="{x:Null}" Click="btn_AggiugniDocente_Click"/>
+        <Button x:Name="btn_AggiugniStudente" Content="Aggiungi Studente" Margin="457,10,199,378" BorderBrush="Black" Background="{x:Null}" Click="btn_AggiugniStudente_Click"/>
+        <Button x:Name="btn_AggiugniCollaboratore" Content="Aggiungi Collaboratore" Margin="159,10,497,378" BorderBrush="Black" Background="{x:Null}" Click="btn_AggiugniCollaboratore_Click"/>
+        <ListBox x:Name="lst_Classi" Margin="606,10,10,10" Background="{x:Null}" BorderBrush="Black" SelectionChanged="lst_Classi_SelectionChanged"/>
+        <TextBox x:Name="txtAnno" Margin="10,72,646,329" TextWrapping="Wrap" Text="Inserisci anno" BorderBrush="Black" Background="{x:Null}" TextAlignment="Center"/>
+        <TextBox x:Name="txtSezione" Margin="10,110,646,291" TextWrapping="Wrap" Text="Inserisci sezione" BorderBrush="Black" Background="{x:Null}" TextAlignment="Center"/>
+        <TextBox x:Name="txtNome" Margin="457,72,199,329" TextWrapping="Wrap" Text="Inserisci nome" BorderBrush="Black" Background="{x:Null}" TextAlignment="Center"/>
+        <TextBox x:Name="txtCognome" Margin="457,110,199,291" TextWrapping="Wrap" Text="Inserisci cognome" BorderBrush="Black" Background="{x:Null}" TextAlignment="Center"/>
+        <TextBox x:Name="txtCodicefiscale" Margin="457,148,199,253" TextWrapping="Wrap" Text="Inserisci codice fiscale" BorderBrush="Black" Background="{x:Null}" TextAlignment="Center"/>
+        <TextBox x:Name="txtMatricola" Margin="457,186,199,215" TextWrapping="Wrap" Text="Inserisci codice matricola" BorderBrush="Black" Background="{x:Null}" TextAlignment="Center"/>
+        <TextBox x:Name="txtNomeD" Margin="308,72,348,329" TextWrapping="Wrap" Text="Inserisci nome" BorderBrush="Black" Background="{x:Null}" TextAlignment="Center"/>
+        <TextBox x:Name="txtCognomeD" Margin="308,110,348,291" TextWrapping="Wrap" Text="Inserisci cognome" BorderBrush="Black" Background="{x:Null}" TextAlignment="Center"/>
+        <TextBox x:Name="txtCodicefiscaleD" Margin="308,148,348,253" TextWrapping="Wrap" Text="Inserisci codice fiscale" BorderBrush="Black" Background="{x:Null}" TextAlignment="Center"/>
+        <TextBox x:Name="txtNomeC" Margin="159,72,497,329" TextWrapping="Wrap" Text="Inserisci nome" BorderBrush="Black" Background="{x:Null}" TextAlignment="Center"/>
+        <TextBox x:Name="txtCognomeC" Margin="159,110,497,291" TextWrapping="Wrap" Text="Inserisci cognome" BorderBrush="Black" Background="{x:Null}" TextAlignment="Center"/>
+        <TextBox x:Name="txtCodicefiscaleC" Margin="159,148,497,253" TextWrapping="Wrap" Text="Inserisci codice fiscale" BorderBrush="Black" Background="{x:Null}" TextAlignment="Center"/>
+        <TextBox x:Name="txtMateria" Margin="308,189,348,212" TextWrapping="Wrap" Text="Inserisci materia" BorderBrush="Black" Background="{x:Null}" TextAlignment="Center"/>
+        <TextBox x:Name="txtSalario" Margin="308,227,348,174" TextWrapping="Wrap" Text="Inserisci salario" BorderBrush="Black" Background="{x:Null}" TextAlignment="Center"/>
+        <TextBox x:Name="txtEmail" Margin="159,189,497,212" TextWrapping="Wrap" Text="Inserisci email" BorderBrush="Black" Background="{x:Null}" TextAlignment="Center"/>
     </Grid>
 </Window>

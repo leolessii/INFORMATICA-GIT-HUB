@@ -8,10 +8,10 @@ namespace Triathlon_Atleti
 {
     public class TriathlonParticipant : Athlete
     {
-        protected int _swimTime;
-        protected int _bikeTime;
+        protected int? _swimTime;
+        protected int? _bikeTime;
 
-        public int SwimTime
+        public int? SwimTime
         {
             get { return _swimTime; }
             set
@@ -20,7 +20,7 @@ namespace Triathlon_Atleti
             }
         }
 
-        public int BikeTime
+        public int? BikeTime
         {
             get { return _bikeTime; }
             set
@@ -38,15 +38,23 @@ namespace Triathlon_Atleti
         public TriathlonParticipant(int swimTime, string name, string lastName, string id) : base(name, lastName, id)
         {
             _swimTime = swimTime;
+            _bikeTime = null;
         }
 
         public TriathlonParticipant(string name, string lastName, string id) : base(name, lastName, id)
         {
+            _swimTime = null;
+            _bikeTime = null;
         }
 
         public override int? FinalResults()
         {
             return null;
+        }
+
+        public override ToString()
+        {
+            return $" Name: {TriathlonParticipant.Name}, Surname: {TriathlonParticipant.Surname}, Id: {TriathlonParticipant.Id}, Swim time: {TriathlonParticipant.SwimTime}, Bike Time: {TriathlonParticipant.BikeTime} ";
         }
     }
 }

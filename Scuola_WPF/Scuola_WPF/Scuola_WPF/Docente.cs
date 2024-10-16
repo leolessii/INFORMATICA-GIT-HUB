@@ -8,10 +8,10 @@ namespace Scuola_WPF
 {
     internal class Docente : Persona
     {
-        private string _materia;
-        private double _salario;
+        private string? _materia;
+        private double? _salario;
 
-        private string Materia
+        private string? Materia
         {
             get { return _materia; }
             set
@@ -21,7 +21,7 @@ namespace Scuola_WPF
             }
         }
 
-        public double Salario
+        public double? Salario
         {
             get { return _salario; }
             set

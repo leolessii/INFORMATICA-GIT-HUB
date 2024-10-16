@@ -4,7 +4,11 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            ReadingFile r = new ReadingFile();
+            Race r = new Race(r.triathlonParticipant, r.triathlonFinalist);
+
+            r.TriathlonParticipantsList();
+            r.TrithlonFinalistsList():
         }
     }
 }
