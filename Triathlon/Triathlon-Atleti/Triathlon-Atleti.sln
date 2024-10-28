@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35027.167
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TriathlonAthletes", "TriathlonAthletes.csproj", "{8FBA5134-99CE-4B7D-93D9-2797258EF589}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TriathlonAthletes", "TriathlonAthletes.csproj", "{8FBA5134-99CE-4B7D-93D9-2797258EF589}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program", "..\Program\Program.csproj", "{08EA3FAD-154F-44E8-8220-A7774ED526C2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Program", "..\Program\Program.csproj", "{08EA3FAD-154F-44E8-8220-A7774ED526C2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadingFile", "..\LetturaFile\ReadingFile.csproj", "{B0AC84E0-4650-4A38-9CB5-6276B42761E7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReadingFile", "..\LetturaFile\ReadingFile.csproj", "{B0AC84E0-4650-4A38-9CB5-6276B42761E7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "..\Tests\Tests.csproj", "{D5F3CCFB-55A0-481F-A123-C2B0B6BDDC1A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tests", "..\Tests\Tests.csproj", "{D5F3CCFB-55A0-481F-A123-C2B0B6BDDC1A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

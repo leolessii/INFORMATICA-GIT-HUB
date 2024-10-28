@@ -10,6 +10,7 @@ namespace Triathlon_Atleti
     {
         protected int? _swimTime;
         protected int? _bikeTime;
+        protected int? _prize;
 
         public int? SwimTime
         {
@@ -29,22 +30,34 @@ namespace Triathlon_Atleti
             }
         }
 
+        public int? Prize
+        {
+            get { return _prize; }
+            set
+            {
+                _prize = value;
+            }
+        }
+
         public TriathlonParticipant(string name, string lastName, string id, int swimTime, int bikeTime) : base (name, lastName, id)
         {
             _swimTime=swimTime;
             _bikeTime=bikeTime;
+            _prize = null;
         }
 
         public TriathlonParticipant(string name, string lastName, string id, int swimTime) : base(name, lastName, id)
         {
             _swimTime = swimTime;
             _bikeTime = null;
+            _prize = null;
         }
 
         public TriathlonParticipant(string name, string lastName, string id) : base(name, lastName, id)
         {
             _swimTime = null;
             _bikeTime = null;
+            _prize = null;
         }
 
         public override int? FinalResults()

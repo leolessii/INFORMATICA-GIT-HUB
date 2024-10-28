@@ -8,31 +8,34 @@ namespace Triathlon_Atleti
 {
     public class Race
     {
-        private List<TriathlonParticipant> triathlonParticipant_;
-        private List<TriathlonFinalist> triathlonFinalist_;
+        private List<TriathlonParticipant> _triathlonParticipant;
+        private List<TriathlonFinalist> _triathlonFinalist;
+        private SwimSort _s;
+        private BikeSort _b;
+        private RunSort _r;
 
         public List<TriathlonParticipant> TriathlonParticipant
         { 
-            get { return triathlonParticipant_; } 
+            get { return _triathlonParticipant; } 
         }
 
         public List<TriathlonFinalist> TriathlonFinalist
         { 
-            get { return triathlonFinalist_; } 
+            get { return _triathlonFinalist; } 
         }
 
         public Race (List<TriathlonParticipant> tp, List<TriathlonFinalist> tf)
         {
-            triathlonParticipant_ = tp;
-            triathlonFinalist_ = tf;
+            _triathlonParticipant = tp;
+            _triathlonFinalist = tf;
         }
 
         public string TriathlonParticipantsList()
         {
             string list = string.Empty;
-            for(int i = 0; i < triathlonParticipant_.Count; i++)
+            for(int i = 0; i < _triathlonParticipant.Count; i++)
             {
-                list += triathlonParticipant_[i].ToString();
+                list += _triathlonParticipant[i].ToString();
                 list += ";";
             }
             return list;    
@@ -41,12 +44,35 @@ namespace Triathlon_Atleti
         public string TriathlonFinalistsList()
         {
             string list = string.Empty;
-            for (int i = 0; i < triathlonFinalist_.Count; i++)
+            for (int i = 0; i < _triathlonFinalist.Count; i++)
             {
-                list += triathlonFinalist_[i].ToString();
+                list += _triathlonFinalist[i].ToString();
                 list += ";";
             }
             return list;
+        }
+
+        public void AssignPrizeForSwim()
+        {
+            for(int i=0; i < _triathlonParticipant.Count;i++)
+            {
+
+            }
+        }
+
+        public void AssignPrizeForBike()
+        {
+
+        }
+
+        public void AssignPrizeForRun()
+        {
+
+        }
+
+        public void AssignPrizeForFirstFiveFinalist()
+        {
+
         }
     }
 }
