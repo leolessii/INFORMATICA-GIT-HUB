@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Spedizioni")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+911e923c21ae2930683d5d1fca9143f008c96afe")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8de41bcfdca49ed67d291a1f1b825314921b5b97")]
 [assembly: System.Reflection.AssemblyProductAttribute("Spedizioni")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Spedizioni")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
