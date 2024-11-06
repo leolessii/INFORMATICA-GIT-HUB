@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MorraCineseWpf/1.0.0": {
+        "dependencies": {
+          "MorraCineseLibrary": "1.0.0"
+        },
+        "runtime": {
+          "MorraCineseWpf.dll": {}
+        }
+      },
+      "MorraCineseLibrary/1.0.0": {
+        "runtime": {
+          "MorraCineseLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MorraCineseWpf/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MorraCineseLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

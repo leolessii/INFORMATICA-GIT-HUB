@@ -1,0 +1,240 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fusar\\Downloads\\MorraCineseInterfacce\\MorraCineseInterfacce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1DB8DB12-B34B-40CE-99B3-A448D9D64240}|MorraCineseWpf\\MorraCineseWpf.csproj|c:\\users\\fusar\\downloads\\morracineseinterfacce\\morracineseinterfacce\\morracinesewpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DB8DB12-B34B-40CE-99B3-A448D9D64240}|MorraCineseWpf\\MorraCineseWpf.csproj|solutionrelative:morracinesewpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DB8DB12-B34B-40CE-99B3-A448D9D64240}|MorraCineseWpf\\MorraCineseWpf.csproj|c:\\users\\fusar\\downloads\\morracineseinterfacce\\morracineseinterfacce\\morracinesewpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1DB8DB12-B34B-40CE-99B3-A448D9D64240}|MorraCineseWpf\\MorraCineseWpf.csproj|solutionrelative:morracinesewpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C2FD61-FED7-4EDC-BCB5-E0FFE08179F7}|MorraCineseInterfacce\\MorraCineseConsole.csproj|c:\\users\\fusar\\downloads\\morracineseinterfacce\\morracineseinterfacce\\morracineseinterfacce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C2FD61-FED7-4EDC-BCB5-E0FFE08179F7}|MorraCineseInterfacce\\MorraCineseConsole.csproj|solutionrelative:morracineseinterfacce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C2FD61-FED7-4EDC-BCB5-E0FFE08179F7}|MorraCineseInterfacce\\MorraCineseConsole.csproj|c:\\users\\fusar\\downloads\\morracineseinterfacce\\morracineseinterfacce\\morracineseinterfacce\\consoleinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C2FD61-FED7-4EDC-BCB5-E0FFE08179F7}|MorraCineseInterfacce\\MorraCineseConsole.csproj|solutionrelative:morracineseinterfacce\\consoleinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{423ECDB8-C275-4F5B-BACC-91ADE245C2D3}|GameLibrary\\MorraCineseLibrary.csproj|c:\\users\\fusar\\downloads\\morracineseinterfacce\\morracineseinterfacce\\gamelibrary\\humanplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{423ECDB8-C275-4F5B-BACC-91ADE245C2D3}|GameLibrary\\MorraCineseLibrary.csproj|solutionrelative:gamelibrary\\humanplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{423ECDB8-C275-4F5B-BACC-91ADE245C2D3}|GameLibrary\\MorraCineseLibrary.csproj|c:\\users\\fusar\\downloads\\morracineseinterfacce\\morracineseinterfacce\\gamelibrary\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{423ECDB8-C275-4F5B-BACC-91ADE245C2D3}|GameLibrary\\MorraCineseLibrary.csproj|solutionrelative:gamelibrary\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{423ECDB8-C275-4F5B-BACC-91ADE245C2D3}|GameLibrary\\MorraCineseLibrary.csproj|c:\\users\\fusar\\downloads\\morracineseinterfacce\\morracineseinterfacce\\gamelibrary\\iinputinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{423ECDB8-C275-4F5B-BACC-91ADE245C2D3}|GameLibrary\\MorraCineseLibrary.csproj|solutionrelative:gamelibrary\\iinputinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5238F5C-197C-4ED9-BEDD-AFFA29035B12}|TestGame\\TestMorraCinese.csproj|c:\\users\\fusar\\downloads\\morracineseinterfacce\\morracineseinterfacce\\testgame\\playertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5238F5C-197C-4ED9-BEDD-AFFA29035B12}|TestGame\\TestMorraCinese.csproj|solutionrelative:testgame\\playertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C2FD61-FED7-4EDC-BCB5-E0FFE08179F7}|MorraCineseInterfacce\\MorraCineseConsole.csproj|c:\\users\\fusar\\downloads\\morracineseinterfacce\\morracineseinterfacce\\morracineseinterfacce\\consoleoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C2FD61-FED7-4EDC-BCB5-E0FFE08179F7}|MorraCineseInterfacce\\MorraCineseConsole.csproj|solutionrelative:morracineseinterfacce\\consoleoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{423ECDB8-C275-4F5B-BACC-91ADE245C2D3}|GameLibrary\\MorraCineseLibrary.csproj|c:\\users\\fusar\\downloads\\morracineseinterfacce\\morracineseinterfacce\\gamelibrary\\ioutputinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{423ECDB8-C275-4F5B-BACC-91ADE245C2D3}|GameLibrary\\MorraCineseLibrary.csproj|solutionrelative:gamelibrary\\ioutputinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5238F5C-197C-4ED9-BEDD-AFFA29035B12}|TestGame\\TestMorraCinese.csproj|c:\\users\\fusar\\downloads\\morracineseinterfacce\\morracineseinterfacce\\testgame\\testgamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5238F5C-197C-4ED9-BEDD-AFFA29035B12}|TestGame\\TestMorraCinese.csproj|solutionrelative:testgame\\testgamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{423ECDB8-C275-4F5B-BACC-91ADE245C2D3}|GameLibrary\\MorraCineseLibrary.csproj|c:\\users\\fusar\\downloads\\morracineseinterfacce\\morracineseinterfacce\\gamelibrary\\computerplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{423ECDB8-C275-4F5B-BACC-91ADE245C2D3}|GameLibrary\\MorraCineseLibrary.csproj|solutionrelative:gamelibrary\\computerplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{423ECDB8-C275-4F5B-BACC-91ADE245C2D3}|GameLibrary\\MorraCineseLibrary.csproj|c:\\users\\fusar\\downloads\\morracineseinterfacce\\morracineseinterfacce\\gamelibrary\\iplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{423ECDB8-C275-4F5B-BACC-91ADE245C2D3}|GameLibrary\\MorraCineseLibrary.csproj|solutionrelative:gamelibrary\\iplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\fusar\\Downloads\\MorraCineseInterfacce\\MorraCineseInterfacce\\MorraCineseWpf\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MorraCineseWpf\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\fusar\\Downloads\\MorraCineseInterfacce\\MorraCineseInterfacce\\MorraCineseWpf\\MainWindow.xaml",
+              "RelativeToolTip": "MorraCineseWpf\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-30T19:34:53.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\fusar\\Downloads\\MorraCineseInterfacce\\MorraCineseInterfacce\\MorraCineseWpf\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MorraCineseWpf\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\fusar\\Downloads\\MorraCineseInterfacce\\MorraCineseInterfacce\\MorraCineseWpf\\MainWindow.xaml.cs \u2B24",
+              "RelativeToolTip": "MorraCineseWpf\\MainWindow.xaml.cs \u2B24",
+              "ViewState": "AgIAABgAAAAAAAAAAAAqwCYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T19:34:52.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ConsoleOutput.cs",
+              "DocumentMoniker": "C:\\Users\\fusar\\Downloads\\MorraCineseInterfacce\\MorraCineseInterfacce\\MorraCineseInterfacce\\ConsoleOutput.cs",
+              "RelativeDocumentMoniker": "MorraCineseInterfacce\\ConsoleOutput.cs",
+              "ToolTip": "C:\\Users\\fusar\\Downloads\\MorraCineseInterfacce\\MorraCineseInterfacce\\MorraCineseInterfacce\\ConsoleOutput.cs",
+              "RelativeToolTip": "MorraCineseInterfacce\\ConsoleOutput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwA0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T08:46:55.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConsoleInput.cs",
+              "DocumentMoniker": "C:\\Users\\fusar\\Downloads\\MorraCineseInterfacce\\MorraCineseInterfacce\\MorraCineseInterfacce\\ConsoleInput.cs",
+              "RelativeDocumentMoniker": "MorraCineseInterfacce\\ConsoleInput.cs",
+              "ToolTip": "C:\\Users\\fusar\\Downloads\\MorraCineseInterfacce\\MorraCineseInterfacce\\MorraCineseInterfacce\\ConsoleInput.cs",
+              "RelativeToolTip": "MorraCineseInterfacce\\ConsoleInput.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T08:28:47.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IInputInterface.cs",
+              "DocumentMoniker": "C:\\Users\\fusar\\Downloads\\MorraCineseInterfacce\\MorraCineseInterfacce\\GameLibrary\\IInputInterface.cs",
+              "RelativeDocumentMoniker": "GameLibrary\\IInputInterface.cs",
+              "ToolTip": "C:\\Users\\fusar\\Downloads\\MorraCineseInterfacce\\MorraCineseInterfacce\\GameLibrary\\IInputInterface.cs",
+              "RelativeToolTip": "GameLibrary\\IInputInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T08:22:20.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HumanPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\fusar\\Downloads\\MorraCineseInterfacce\\MorraCineseInterfacce\\GameLibrary\\HumanPlayer.cs",
+              "RelativeDocumentMoniker": "GameLibrary\\HumanPlayer.cs",
+              "ToolTip": "C:\\Users\\fusar\\Downloads\\MorraCineseInterfacce\\MorraCineseInterfacce\\GameLibrary\\HumanPlayer.cs",
+              "RelativeToolTip": "GameLibrary\\HumanPlayer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T08:16:26.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlayerTest.cs",
+              "DocumentMoniker": "C:\\Users\\fusar\\Downloads\\MorraCineseInterfacce\\MorraCineseInterfacce\\TestGame\\PlayerTest.cs",
+              "RelativeDocumentMoniker": "TestGame\\PlayerTest.cs",
+              "ToolTip": "C:\\Users\\fusar\\Downloads\\MorraCineseInterfacce\\MorraCineseInterfacce\\TestGame\\PlayerTest.cs",
+              "RelativeToolTip": "TestGame\\PlayerTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T08:00:01.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ComputerPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\fusar\\Downloads\\MorraCineseInterfacce\\MorraCineseInterfacce\\GameLibrary\\ComputerPlayer.cs",
+              "RelativeDocumentMoniker": "GameLibrary\\ComputerPlayer.cs",
+              "ToolTip": "C:\\Users\\fusar\\Downloads\\MorraCineseInterfacce\\MorraCineseInterfacce\\GameLibrary\\ComputerPlayer.cs",
+              "RelativeToolTip": "GameLibrary\\ComputerPlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T07:44:55.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\fusar\\Downloads\\MorraCineseInterfacce\\MorraCineseInterfacce\\GameLibrary\\IPlayer.cs",
+              "RelativeDocumentMoniker": "GameLibrary\\IPlayer.cs",
+              "ToolTip": "C:\\Users\\fusar\\Downloads\\MorraCineseInterfacce\\MorraCineseInterfacce\\GameLibrary\\IPlayer.cs",
+              "RelativeToolTip": "GameLibrary\\IPlayer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T07:35:57.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\fusar\\Downloads\\MorraCineseInterfacce\\MorraCineseInterfacce\\GameLibrary\\GameManager.cs",
+              "RelativeDocumentMoniker": "GameLibrary\\GameManager.cs",
+              "ToolTip": "C:\\Users\\fusar\\Downloads\\MorraCineseInterfacce\\MorraCineseInterfacce\\GameLibrary\\GameManager.cs",
+              "RelativeToolTip": "GameLibrary\\GameManager.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwBsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T07:31:48.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fusar\\Downloads\\MorraCineseInterfacce\\MorraCineseInterfacce\\MorraCineseInterfacce\\Program.cs",
+              "RelativeDocumentMoniker": "MorraCineseInterfacce\\Program.cs",
+              "ToolTip": "C:\\Users\\fusar\\Downloads\\MorraCineseInterfacce\\MorraCineseInterfacce\\MorraCineseInterfacce\\Program.cs",
+              "RelativeToolTip": "MorraCineseInterfacce\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAACDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T07:26:18.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TestGameManager.cs",
+              "DocumentMoniker": "C:\\Users\\fusar\\Downloads\\MorraCineseInterfacce\\MorraCineseInterfacce\\TestGame\\TestGameManager.cs",
+              "RelativeDocumentMoniker": "TestGame\\TestGameManager.cs",
+              "ToolTip": "C:\\Users\\fusar\\Downloads\\MorraCineseInterfacce\\MorraCineseInterfacce\\TestGame\\TestGameManager.cs",
+              "RelativeToolTip": "TestGame\\TestGameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T07:30:10.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IOutputInterface.cs",
+              "DocumentMoniker": "C:\\Users\\fusar\\Downloads\\MorraCineseInterfacce\\MorraCineseInterfacce\\GameLibrary\\IOutputInterface.cs",
+              "RelativeDocumentMoniker": "GameLibrary\\IOutputInterface.cs",
+              "ToolTip": "C:\\Users\\fusar\\Downloads\\MorraCineseInterfacce\\MorraCineseInterfacce\\GameLibrary\\IOutputInterface.cs",
+              "RelativeToolTip": "GameLibrary\\IOutputInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T08:43:05.405Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MorraCineseLibrary", "GameLibrary\MorraCineseLibrary.csproj", "{423ECDB8-C275-4F5B-BACC-91ADE245C2D3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestMorraCinese", "TestGame\TestMorraCinese.csproj", "{B5238F5C-197C-4ED9-BEDD-AFFA29035B12}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MorraCineseWpf", "MorraCineseWpf\MorraCineseWpf.csproj", "{1DB8DB12-B34B-40CE-99B3-A448D9D64240}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadingAndWritingFile", "ReadingAndWritingFile\ReadingAndWritingFile.csproj", "{ECCAF757-6D7D-441C-BE70-FCDBEDB7ED28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{423ECDB8-C275-4F5B-BACC-91ADE245C2D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{423ECDB8-C275-4F5B-BACC-91ADE245C2D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{423ECDB8-C275-4F5B-BACC-91ADE245C2D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{423ECDB8-C275-4F5B-BACC-91ADE245C2D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5238F5C-197C-4ED9-BEDD-AFFA29035B12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5238F5C-197C-4ED9-BEDD-AFFA29035B12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5238F5C-197C-4ED9-BEDD-AFFA29035B12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5238F5C-197C-4ED9-BEDD-AFFA29035B12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DB8DB12-B34B-40CE-99B3-A448D9D64240}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DB8DB12-B34B-40CE-99B3-A448D9D64240}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DB8DB12-B34B-40CE-99B3-A448D9D64240}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DB8DB12-B34B-40CE-99B3-A448D9D64240}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECCAF757-6D7D-441C-BE70-FCDBEDB7ED28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECCAF757-6D7D-441C-BE70-FCDBEDB7ED28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECCAF757-6D7D-441C-BE70-FCDBEDB7ED28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECCAF757-6D7D-441C-BE70-FCDBEDB7ED28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9EBD21B0-9503-4ADE-BDF5-534C3C48E758}
+	EndGlobalSection
+EndGlobal

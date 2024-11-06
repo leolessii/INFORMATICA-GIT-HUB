@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="bandiera.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\GameLibrary\MorraCineseLibrary.csproj" />
+    <ProjectReference Include="..\ReadingAndWritingFile\ReadingAndWritingFile.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="bandiera.jpg" />
+  </ItemGroup>
+
+</Project>
