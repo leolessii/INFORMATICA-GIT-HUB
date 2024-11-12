@@ -1,0 +1,35 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="1B.jpg" />
+    <None Remove="1C.jpg" />
+    <None Remove="1D.jpg" />
+    <None Remove="c.png" />
+    <None Remove="image_6483441.JPG" />
+    <None Remove="RETRO.jpg" />
+    <None Remove="Screenshot 2024-04-16 121835.png" />
+    <None Remove="Screenshot 2024-05-28 121542.png" />
+    <None Remove="solitario mokup.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Classi_SolitarioTiramisu\Classi_SolitarioTiramisu.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="c.png" />
+    <Resource Include="image_6483441.JPG" />
+    <Resource Include="RETRO.jpg" />
+    <Resource Include="Screenshot 2024-04-16 121835.png" />
+    <Resource Include="Screenshot 2024-05-28 121542.png" />
+    <Resource Include="solitario mokup.png" />
+  </ItemGroup>
+
+</Project>

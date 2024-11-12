@@ -1,0 +1,105 @@
+C:\Users\luca.ursillo\Desktop\INFORMATICA\Solitario\Solitario\Classi_SolitarioTiramisu\bin\Debug\net7.0\Classi_SolitarioTiramisu.exe
+C:\Users\luca.ursillo\Desktop\INFORMATICA\Solitario\Solitario\Classi_SolitarioTiramisu\bin\Debug\net7.0\Classi_SolitarioTiramisu.deps.json
+C:\Users\luca.ursillo\Desktop\INFORMATICA\Solitario\Solitario\Classi_SolitarioTiramisu\bin\Debug\net7.0\Classi_SolitarioTiramisu.runtimeconfig.json
+C:\Users\luca.ursillo\Desktop\INFORMATICA\Solitario\Solitario\Classi_SolitarioTiramisu\bin\Debug\net7.0\Classi_SolitarioTiramisu.dll
+C:\Users\luca.ursillo\Desktop\INFORMATICA\Solitario\Solitario\Classi_SolitarioTiramisu\bin\Debug\net7.0\Classi_SolitarioTiramisu.pdb
+C:\Users\luca.ursillo\Desktop\INFORMATICA\Solitario\Solitario\Classi_SolitarioTiramisu\obj\Debug\net7.0\Classi_SolitarioTiramisu.csproj.AssemblyReference.cache
+C:\Users\luca.ursillo\Desktop\INFORMATICA\Solitario\Solitario\Classi_SolitarioTiramisu\obj\Debug\net7.0\Classi_SolitarioTiramisu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luca.ursillo\Desktop\INFORMATICA\Solitario\Solitario\Classi_SolitarioTiramisu\obj\Debug\net7.0\Classi_SolitarioTiramisu.AssemblyInfoInputs.cache
+C:\Users\luca.ursillo\Desktop\INFORMATICA\Solitario\Solitario\Classi_SolitarioTiramisu\obj\Debug\net7.0\Classi_SolitarioTiramisu.AssemblyInfo.cs
+C:\Users\luca.ursillo\Desktop\INFORMATICA\Solitario\Solitario\Classi_SolitarioTiramisu\obj\Debug\net7.0\Classi_SolitarioTiramisu.csproj.CoreCompileInputs.cache
+C:\Users\luca.ursillo\Desktop\INFORMATICA\Solitario\Solitario\Classi_SolitarioTiramisu\obj\Debug\net7.0\Classi_SolitarioTiramisu.dll
+C:\Users\luca.ursillo\Desktop\INFORMATICA\Solitario\Solitario\Classi_SolitarioTiramisu\obj\Debug\net7.0\refint\Classi_SolitarioTiramisu.dll
+C:\Users\luca.ursillo\Desktop\INFORMATICA\Solitario\Solitario\Classi_SolitarioTiramisu\obj\Debug\net7.0\Classi_SolitarioTiramisu.pdb
+C:\Users\luca.ursillo\Desktop\INFORMATICA\Solitario\Solitario\Classi_SolitarioTiramisu\obj\Debug\net7.0\Classi_SolitarioTiramisu.genruntimeconfig.cache
+C:\Users\luca.ursillo\Desktop\INFORMATICA\Solitario\Solitario\Classi_SolitarioTiramisu\obj\Debug\net7.0\ref\Classi_SolitarioTiramisu.dll
+C:\Users\Leonardo.Lessi\Documents\Informatica Esercizi\Solitario\Classi_SolitarioTiramisu\obj\Debug\net7.0\Classi_SolitarioTiramisu.csproj.AssemblyReference.cache
+C:\Users\Leonardo.Lessi\Documents\Informatica Esercizi\Solitario\Classi_SolitarioTiramisu\obj\Debug\net7.0\Classi_SolitarioTiramisu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonardo.Lessi\Documents\Informatica Esercizi\Solitario\Classi_SolitarioTiramisu\obj\Debug\net7.0\Classi_SolitarioTiramisu.AssemblyInfoInputs.cache
+C:\Users\Leonardo.Lessi\Documents\Informatica Esercizi\Solitario\Classi_SolitarioTiramisu\obj\Debug\net7.0\Classi_SolitarioTiramisu.AssemblyInfo.cs
+C:\Users\Leonardo.Lessi\Documents\Informatica Esercizi\Solitario\Classi_SolitarioTiramisu\obj\Debug\net7.0\Classi_SolitarioTiramisu.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo.Lessi\Documents\Informatica Esercizi\Solitario\Classi_SolitarioTiramisu\obj\Debug\net7.0\Classi_SolitarioTiramisu.dll
+C:\Users\Leonardo.Lessi\Documents\Informatica Esercizi\Solitario\Classi_SolitarioTiramisu\obj\Debug\net7.0\refint\Classi_SolitarioTiramisu.dll
+C:\Users\Leonardo.Lessi\Documents\Informatica Esercizi\Solitario\Classi_SolitarioTiramisu\obj\Debug\net7.0\Classi_SolitarioTiramisu.pdb
+C:\Users\Leonardo.Lessi\Documents\Informatica Esercizi\Solitario\Classi_SolitarioTiramisu\bin\Debug\net7.0\Classi_SolitarioTiramisu.exe
+C:\Users\Leonardo.Lessi\Documents\Informatica Esercizi\Solitario\Classi_SolitarioTiramisu\bin\Debug\net7.0\Classi_SolitarioTiramisu.deps.json
+C:\Users\Leonardo.Lessi\Documents\Informatica Esercizi\Solitario\Classi_SolitarioTiramisu\bin\Debug\net7.0\Classi_SolitarioTiramisu.runtimeconfig.json
+C:\Users\Leonardo.Lessi\Documents\Informatica Esercizi\Solitario\Classi_SolitarioTiramisu\bin\Debug\net7.0\Classi_SolitarioTiramisu.dll
+C:\Users\Leonardo.Lessi\Documents\Informatica Esercizi\Solitario\Classi_SolitarioTiramisu\bin\Debug\net7.0\Classi_SolitarioTiramisu.pdb
+C:\Users\Leonardo.Lessi\Documents\Informatica Esercizi\Solitario\Classi_SolitarioTiramisu\obj\Debug\net7.0\Classi_SolitarioTiramisu.genruntimeconfig.cache
+C:\Users\Leonardo.Lessi\Documents\Informatica Esercizi\Solitario\Classi_SolitarioTiramisu\obj\Debug\net7.0\ref\Classi_SolitarioTiramisu.dll
+C:\Users\Leonardo.Lessi\Documents\INFORMATICA\Solitario\Classi_SolitarioTiramisu\bin\Debug\net7.0\Classi_SolitarioTiramisu.exe
+C:\Users\Leonardo.Lessi\Documents\INFORMATICA\Solitario\Classi_SolitarioTiramisu\bin\Debug\net7.0\Classi_SolitarioTiramisu.deps.json
+C:\Users\Leonardo.Lessi\Documents\INFORMATICA\Solitario\Classi_SolitarioTiramisu\bin\Debug\net7.0\Classi_SolitarioTiramisu.runtimeconfig.json
+C:\Users\Leonardo.Lessi\Documents\INFORMATICA\Solitario\Classi_SolitarioTiramisu\bin\Debug\net7.0\Classi_SolitarioTiramisu.dll
+C:\Users\Leonardo.Lessi\Documents\INFORMATICA\Solitario\Classi_SolitarioTiramisu\bin\Debug\net7.0\Classi_SolitarioTiramisu.pdb
+C:\Users\Leonardo.Lessi\Documents\INFORMATICA\Solitario\Classi_SolitarioTiramisu\obj\Debug\net7.0\Classi_SolitarioTiramisu.csproj.AssemblyReference.cache
+C:\Users\Leonardo.Lessi\Documents\INFORMATICA\Solitario\Classi_SolitarioTiramisu\obj\Debug\net7.0\Classi_SolitarioTiramisu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonardo.Lessi\Documents\INFORMATICA\Solitario\Classi_SolitarioTiramisu\obj\Debug\net7.0\Classi_SolitarioTiramisu.AssemblyInfoInputs.cache
+C:\Users\Leonardo.Lessi\Documents\INFORMATICA\Solitario\Classi_SolitarioTiramisu\obj\Debug\net7.0\Classi_SolitarioTiramisu.AssemblyInfo.cs
+C:\Users\Leonardo.Lessi\Documents\INFORMATICA\Solitario\Classi_SolitarioTiramisu\obj\Debug\net7.0\Classi_SolitarioTiramisu.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo.Lessi\Documents\INFORMATICA\Solitario\Classi_SolitarioTiramisu\obj\Debug\net7.0\Classi_SolitarioTiramisu.dll
+C:\Users\Leonardo.Lessi\Documents\INFORMATICA\Solitario\Classi_SolitarioTiramisu\obj\Debug\net7.0\refint\Classi_SolitarioTiramisu.dll
+C:\Users\Leonardo.Lessi\Documents\INFORMATICA\Solitario\Classi_SolitarioTiramisu\obj\Debug\net7.0\Classi_SolitarioTiramisu.pdb
+C:\Users\Leonardo.Lessi\Documents\INFORMATICA\Solitario\Classi_SolitarioTiramisu\obj\Debug\net7.0\Classi_SolitarioTiramisu.genruntimeconfig.cache
+C:\Users\Leonardo.Lessi\Documents\INFORMATICA\Solitario\Classi_SolitarioTiramisu\obj\Debug\net7.0\ref\Classi_SolitarioTiramisu.dll
+C:\Users\Leonardo.Lessi\Documents\Git\INFORMATICA\Solitario\Classi_SolitarioTiramisu\bin\Debug\net7.0\Classi_SolitarioTiramisu.exe
+C:\Users\Leonardo.Lessi\Documents\Git\INFORMATICA\Solitario\Classi_SolitarioTiramisu\bin\Debug\net7.0\Classi_SolitarioTiramisu.deps.json
+C:\Users\Leonardo.Lessi\Documents\Git\INFORMATICA\Solitario\Classi_SolitarioTiramisu\bin\Debug\net7.0\Classi_SolitarioTiramisu.runtimeconfig.json
+C:\Users\Leonardo.Lessi\Documents\Git\INFORMATICA\Solitario\Classi_SolitarioTiramisu\bin\Debug\net7.0\Classi_SolitarioTiramisu.dll
+C:\Users\Leonardo.Lessi\Documents\Git\INFORMATICA\Solitario\Classi_SolitarioTiramisu\bin\Debug\net7.0\Classi_SolitarioTiramisu.pdb
+C:\Users\Leonardo.Lessi\Documents\Git\INFORMATICA\Solitario\Classi_SolitarioTiramisu\obj\Debug\net7.0\Classi_SolitarioTiramisu.csproj.AssemblyReference.cache
+C:\Users\Leonardo.Lessi\Documents\Git\INFORMATICA\Solitario\Classi_SolitarioTiramisu\obj\Debug\net7.0\Classi_SolitarioTiramisu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonardo.Lessi\Documents\Git\INFORMATICA\Solitario\Classi_SolitarioTiramisu\obj\Debug\net7.0\Classi_SolitarioTiramisu.AssemblyInfoInputs.cache
+C:\Users\Leonardo.Lessi\Documents\Git\INFORMATICA\Solitario\Classi_SolitarioTiramisu\obj\Debug\net7.0\Classi_SolitarioTiramisu.AssemblyInfo.cs
+C:\Users\Leonardo.Lessi\Documents\Git\INFORMATICA\Solitario\Classi_SolitarioTiramisu\obj\Debug\net7.0\Classi_SolitarioTiramisu.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo.Lessi\Documents\Git\INFORMATICA\Solitario\Classi_SolitarioTiramisu\obj\Debug\net7.0\Classi_SolitarioTiramisu.dll
+C:\Users\Leonardo.Lessi\Documents\Git\INFORMATICA\Solitario\Classi_SolitarioTiramisu\obj\Debug\net7.0\refint\Classi_SolitarioTiramisu.dll
+C:\Users\Leonardo.Lessi\Documents\Git\INFORMATICA\Solitario\Classi_SolitarioTiramisu\obj\Debug\net7.0\Classi_SolitarioTiramisu.pdb
+C:\Users\Leonardo.Lessi\Documents\Git\INFORMATICA\Solitario\Classi_SolitarioTiramisu\obj\Debug\net7.0\Classi_SolitarioTiramisu.genruntimeconfig.cache
+C:\Users\Leonardo.Lessi\Documents\Git\INFORMATICA\Solitario\Classi_SolitarioTiramisu\obj\Debug\net7.0\ref\Classi_SolitarioTiramisu.dll
+C:\Users\Leonardo.Lessi\Documents\Solitario\Classi_SolitarioTiramisu\bin\Debug\net7.0\Classi_SolitarioTiramisu.exe
+C:\Users\Leonardo.Lessi\Documents\Solitario\Classi_SolitarioTiramisu\bin\Debug\net7.0\Classi_SolitarioTiramisu.deps.json
+C:\Users\Leonardo.Lessi\Documents\Solitario\Classi_SolitarioTiramisu\bin\Debug\net7.0\Classi_SolitarioTiramisu.runtimeconfig.json
+C:\Users\Leonardo.Lessi\Documents\Solitario\Classi_SolitarioTiramisu\bin\Debug\net7.0\Classi_SolitarioTiramisu.dll
+C:\Users\Leonardo.Lessi\Documents\Solitario\Classi_SolitarioTiramisu\bin\Debug\net7.0\Classi_SolitarioTiramisu.pdb
+C:\Users\Leonardo.Lessi\Documents\Solitario\Classi_SolitarioTiramisu\obj\Debug\net7.0\Classi_SolitarioTiramisu.csproj.AssemblyReference.cache
+C:\Users\Leonardo.Lessi\Documents\Solitario\Classi_SolitarioTiramisu\obj\Debug\net7.0\Classi_SolitarioTiramisu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonardo.Lessi\Documents\Solitario\Classi_SolitarioTiramisu\obj\Debug\net7.0\Classi_SolitarioTiramisu.AssemblyInfoInputs.cache
+C:\Users\Leonardo.Lessi\Documents\Solitario\Classi_SolitarioTiramisu\obj\Debug\net7.0\Classi_SolitarioTiramisu.AssemblyInfo.cs
+C:\Users\Leonardo.Lessi\Documents\Solitario\Classi_SolitarioTiramisu\obj\Debug\net7.0\Classi_SolitarioTiramisu.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo.Lessi\Documents\Solitario\Classi_SolitarioTiramisu\obj\Debug\net7.0\Classi_SolitarioTiramisu.dll
+C:\Users\Leonardo.Lessi\Documents\Solitario\Classi_SolitarioTiramisu\obj\Debug\net7.0\refint\Classi_SolitarioTiramisu.dll
+C:\Users\Leonardo.Lessi\Documents\Solitario\Classi_SolitarioTiramisu\obj\Debug\net7.0\Classi_SolitarioTiramisu.pdb
+C:\Users\Leonardo.Lessi\Documents\Solitario\Classi_SolitarioTiramisu\obj\Debug\net7.0\Classi_SolitarioTiramisu.genruntimeconfig.cache
+C:\Users\Leonardo.Lessi\Documents\Solitario\Classi_SolitarioTiramisu\obj\Debug\net7.0\ref\Classi_SolitarioTiramisu.dll
+C:\Users\Leonardo.Lessi\Desktop\Solitario\Classi_SolitarioTiramisu\bin\Debug\net7.0\Classi_SolitarioTiramisu.exe
+C:\Users\Leonardo.Lessi\Desktop\Solitario\Classi_SolitarioTiramisu\bin\Debug\net7.0\Classi_SolitarioTiramisu.deps.json
+C:\Users\Leonardo.Lessi\Desktop\Solitario\Classi_SolitarioTiramisu\bin\Debug\net7.0\Classi_SolitarioTiramisu.runtimeconfig.json
+C:\Users\Leonardo.Lessi\Desktop\Solitario\Classi_SolitarioTiramisu\bin\Debug\net7.0\Classi_SolitarioTiramisu.dll
+C:\Users\Leonardo.Lessi\Desktop\Solitario\Classi_SolitarioTiramisu\bin\Debug\net7.0\Classi_SolitarioTiramisu.pdb
+C:\Users\Leonardo.Lessi\Desktop\Solitario\Classi_SolitarioTiramisu\obj\Debug\net7.0\Classi_SolitarioTiramisu.csproj.AssemblyReference.cache
+C:\Users\Leonardo.Lessi\Desktop\Solitario\Classi_SolitarioTiramisu\obj\Debug\net7.0\Classi_SolitarioTiramisu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonardo.Lessi\Desktop\Solitario\Classi_SolitarioTiramisu\obj\Debug\net7.0\Classi_SolitarioTiramisu.AssemblyInfoInputs.cache
+C:\Users\Leonardo.Lessi\Desktop\Solitario\Classi_SolitarioTiramisu\obj\Debug\net7.0\Classi_SolitarioTiramisu.AssemblyInfo.cs
+C:\Users\Leonardo.Lessi\Desktop\Solitario\Classi_SolitarioTiramisu\obj\Debug\net7.0\Classi_SolitarioTiramisu.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo.Lessi\Desktop\Solitario\Classi_SolitarioTiramisu\obj\Debug\net7.0\Classi_SolitarioTiramisu.dll
+C:\Users\Leonardo.Lessi\Desktop\Solitario\Classi_SolitarioTiramisu\obj\Debug\net7.0\refint\Classi_SolitarioTiramisu.dll
+C:\Users\Leonardo.Lessi\Desktop\Solitario\Classi_SolitarioTiramisu\obj\Debug\net7.0\Classi_SolitarioTiramisu.pdb
+C:\Users\Leonardo.Lessi\Desktop\Solitario\Classi_SolitarioTiramisu\obj\Debug\net7.0\Classi_SolitarioTiramisu.genruntimeconfig.cache
+C:\Users\Leonardo.Lessi\Desktop\Solitario\Classi_SolitarioTiramisu\obj\Debug\net7.0\ref\Classi_SolitarioTiramisu.dll
+C:\Users\fabio.reggiani\Desktop\Solitario_V4.9\Solitario\Classi_SolitarioTiramisu\bin\Debug\net7.0\Classi_SolitarioTiramisu.exe
+C:\Users\fabio.reggiani\Desktop\Solitario_V4.9\Solitario\Classi_SolitarioTiramisu\bin\Debug\net7.0\Classi_SolitarioTiramisu.deps.json
+C:\Users\fabio.reggiani\Desktop\Solitario_V4.9\Solitario\Classi_SolitarioTiramisu\bin\Debug\net7.0\Classi_SolitarioTiramisu.runtimeconfig.json
+C:\Users\fabio.reggiani\Desktop\Solitario_V4.9\Solitario\Classi_SolitarioTiramisu\bin\Debug\net7.0\Classi_SolitarioTiramisu.dll
+C:\Users\fabio.reggiani\Desktop\Solitario_V4.9\Solitario\Classi_SolitarioTiramisu\bin\Debug\net7.0\Classi_SolitarioTiramisu.pdb
+C:\Users\fabio.reggiani\Desktop\Solitario_V4.9\Solitario\Classi_SolitarioTiramisu\obj\Debug\net7.0\Classi_SolitarioTiramisu.csproj.AssemblyReference.cache
+C:\Users\fabio.reggiani\Desktop\Solitario_V4.9\Solitario\Classi_SolitarioTiramisu\obj\Debug\net7.0\Classi_SolitarioTiramisu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio.reggiani\Desktop\Solitario_V4.9\Solitario\Classi_SolitarioTiramisu\obj\Debug\net7.0\Classi_SolitarioTiramisu.AssemblyInfoInputs.cache
+C:\Users\fabio.reggiani\Desktop\Solitario_V4.9\Solitario\Classi_SolitarioTiramisu\obj\Debug\net7.0\Classi_SolitarioTiramisu.AssemblyInfo.cs
+C:\Users\fabio.reggiani\Desktop\Solitario_V4.9\Solitario\Classi_SolitarioTiramisu\obj\Debug\net7.0\Classi_SolitarioTiramisu.csproj.CoreCompileInputs.cache
+C:\Users\fabio.reggiani\Desktop\Solitario_V4.9\Solitario\Classi_SolitarioTiramisu\obj\Debug\net7.0\Classi_SolitarioTiramisu.dll
+C:\Users\fabio.reggiani\Desktop\Solitario_V4.9\Solitario\Classi_SolitarioTiramisu\obj\Debug\net7.0\refint\Classi_SolitarioTiramisu.dll
+C:\Users\fabio.reggiani\Desktop\Solitario_V4.9\Solitario\Classi_SolitarioTiramisu\obj\Debug\net7.0\Classi_SolitarioTiramisu.pdb
+C:\Users\fabio.reggiani\Desktop\Solitario_V4.9\Solitario\Classi_SolitarioTiramisu\obj\Debug\net7.0\Classi_SolitarioTiramisu.genruntimeconfig.cache
+C:\Users\fabio.reggiani\Desktop\Solitario_V4.9\Solitario\Classi_SolitarioTiramisu\obj\Debug\net7.0\ref\Classi_SolitarioTiramisu.dll
