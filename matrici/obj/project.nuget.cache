@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1t9fQk6Pmzs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Leonardo.Lessi\\Desktop\\matrici\\matrici.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Leonardo.Lessi\\.nuget\\packages\\sixlabors.imagesharp\\3.1.6\\sixlabors.imagesharp.3.1.6.nupkg.sha512"
+  ],
+  "logs": []
+}
