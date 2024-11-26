@@ -3,28 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\Leonardo.Lessi\\Documents\\INFORMATICA-GIT-HUB\\MorraCineseInterfacceConsoleWpf\\MorraCineseInterfacce\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1DB8DB12-B34B-40CE-99B3-A448D9D64240}|MorraCineseWpf\\MorraCineseWpf.csproj|c:\\users\\leonardo.lessi\\documents\\informatica-git-hub\\morracineseinterfacceconsolewpf\\morracineseinterfacce\\morracinesewpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{1DB8DB12-B34B-40CE-99B3-A448D9D64240}|MorraCineseWpf\\MorraCineseWpf.csproj|solutionrelative:morracinesewpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{423ECDB8-C275-4F5B-BACC-91ADE245C2D3}|GameLibrary\\MorraCineseLibrary.csproj|c:\\users\\leonardo.lessi\\documents\\informatica-git-hub\\morracineseinterfacceconsolewpf\\morracineseinterfacce\\gamelibrary\\iinputinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{423ECDB8-C275-4F5B-BACC-91ADE245C2D3}|GameLibrary\\MorraCineseLibrary.csproj|solutionrelative:gamelibrary\\iinputinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1DB8DB12-B34B-40CE-99B3-A448D9D64240}|MorraCineseWpf\\MorraCineseWpf.csproj|c:\\users\\leonardo.lessi\\documents\\informatica-git-hub\\morracineseinterfacceconsolewpf\\morracineseinterfacce\\morracinesewpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1DB8DB12-B34B-40CE-99B3-A448D9D64240}|MorraCineseWpf\\MorraCineseWpf.csproj|solutionrelative:morracinesewpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{423ECDB8-C275-4F5B-BACC-91ADE245C2D3}|GameLibrary\\MorraCineseLibrary.csproj|c:\\users\\leonardo.lessi\\documents\\informatica-git-hub\\morracineseinterfacceconsolewpf\\morracineseinterfacce\\gamelibrary\\ioutputinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{423ECDB8-C275-4F5B-BACC-91ADE245C2D3}|GameLibrary\\MorraCineseLibrary.csproj|solutionrelative:gamelibrary\\ioutputinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{423ECDB8-C275-4F5B-BACC-91ADE245C2D3}|GameLibrary\\MorraCineseLibrary.csproj|c:\\users\\leonardo.lessi\\documents\\informatica-git-hub\\morracineseinterfacceconsolewpf\\morracineseinterfacce\\gamelibrary\\humanplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{423ECDB8-C275-4F5B-BACC-91ADE245C2D3}|GameLibrary\\MorraCineseLibrary.csproj|solutionrelative:gamelibrary\\humanplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{423ECDB8-C275-4F5B-BACC-91ADE245C2D3}|GameLibrary\\MorraCineseLibrary.csproj|c:\\users\\leonardo.lessi\\documents\\informatica-git-hub\\morracineseinterfacceconsolewpf\\morracineseinterfacce\\gamelibrary\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{423ECDB8-C275-4F5B-BACC-91ADE245C2D3}|GameLibrary\\MorraCineseLibrary.csproj|solutionrelative:gamelibrary\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{423ECDB8-C275-4F5B-BACC-91ADE245C2D3}|GameLibrary\\MorraCineseLibrary.csproj|c:\\users\\leonardo.lessi\\documents\\informatica-git-hub\\morracineseinterfacceconsolewpf\\morracineseinterfacce\\gamelibrary\\computerplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{423ECDB8-C275-4F5B-BACC-91ADE245C2D3}|GameLibrary\\MorraCineseLibrary.csproj|solutionrelative:gamelibrary\\computerplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ECCAF757-6D7D-441C-BE70-FCDBEDB7ED28}|ReadingAndWritingFile\\ReadingAndWritingFile.csproj|c:\\users\\leonardo.lessi\\documents\\informatica-git-hub\\morracineseinterfacceconsolewpf\\morracineseinterfacce\\readingandwritingfile\\writingfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECCAF757-6D7D-441C-BE70-FCDBEDB7ED28}|ReadingAndWritingFile\\ReadingAndWritingFile.csproj|solutionrelative:readingandwritingfile\\writingfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1DB8DB12-B34B-40CE-99B3-A448D9D64240}|MorraCineseWpf\\MorraCineseWpf.csproj|c:\\users\\leonardo.lessi\\documents\\informatica-git-hub\\morracineseinterfacceconsolewpf\\morracineseinterfacce\\morracinesewpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DB8DB12-B34B-40CE-99B3-A448D9D64240}|MorraCineseWpf\\MorraCineseWpf.csproj|solutionrelative:morracinesewpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{423ECDB8-C275-4F5B-BACC-91ADE245C2D3}|GameLibrary\\MorraCineseLibrary.csproj|c:\\users\\leonardo.lessi\\documents\\informatica-git-hub\\morracineseinterfacceconsolewpf\\morracineseinterfacce\\gamelibrary\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{423ECDB8-C275-4F5B-BACC-91ADE245C2D3}|GameLibrary\\MorraCineseLibrary.csproj|solutionrelative:gamelibrary\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1DB8DB12-B34B-40CE-99B3-A448D9D64240}|MorraCineseWpf\\MorraCineseWpf.csproj|c:\\users\\leonardo.lessi\\documents\\informatica-git-hub\\morracineseinterfacceconsolewpf\\morracineseinterfacce\\morracinesewpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1DB8DB12-B34B-40CE-99B3-A448D9D64240}|MorraCineseWpf\\MorraCineseWpf.csproj|solutionrelative:morracinesewpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{423ECDB8-C275-4F5B-BACC-91ADE245C2D3}|GameLibrary\\MorraCineseLibrary.csproj|c:\\users\\leonardo.lessi\\documents\\informatica-git-hub\\morracineseinterfacceconsolewpf\\morracineseinterfacce\\gamelibrary\\humanplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{423ECDB8-C275-4F5B-BACC-91ADE245C2D3}|GameLibrary\\MorraCineseLibrary.csproj|solutionrelative:gamelibrary\\humanplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECCAF757-6D7D-441C-BE70-FCDBEDB7ED28}|ReadingAndWritingFile\\ReadingAndWritingFile.csproj|c:\\users\\leonardo.lessi\\documents\\informatica-git-hub\\morracineseinterfacceconsolewpf\\morracineseinterfacce\\readingandwritingfile\\writingfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECCAF757-6D7D-441C-BE70-FCDBEDB7ED28}|ReadingAndWritingFile\\ReadingAndWritingFile.csproj|solutionrelative:readingandwritingfile\\writingfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ECCAF757-6D7D-441C-BE70-FCDBEDB7ED28}|ReadingAndWritingFile\\ReadingAndWritingFile.csproj|c:\\users\\leonardo.lessi\\documents\\informatica-git-hub\\morracineseinterfacceconsolewpf\\morracineseinterfacce\\readingandwritingfile\\readingfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,14 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{423ECDB8-C275-4F5B-BACC-91ADE245C2D3}|GameLibrary\\MorraCineseLibrary.csproj|c:\\users\\leonardo.lessi\\documents\\informatica-git-hub\\morracineseinterfacceconsolewpf\\morracineseinterfacce\\gamelibrary\\iplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{423ECDB8-C275-4F5B-BACC-91ADE245C2D3}|GameLibrary\\MorraCineseLibrary.csproj|solutionrelative:gamelibrary\\iplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{423ECDB8-C275-4F5B-BACC-91ADE245C2D3}|GameLibrary\\MorraCineseLibrary.csproj|c:\\users\\leonardo.lessi\\documents\\informatica-git-hub\\morracineseinterfacceconsolewpf\\morracineseinterfacce\\gamelibrary\\ioutputinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{423ECDB8-C275-4F5B-BACC-91ADE245C2D3}|GameLibrary\\MorraCineseLibrary.csproj|solutionrelative:gamelibrary\\ioutputinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{423ECDB8-C275-4F5B-BACC-91ADE245C2D3}|GameLibrary\\MorraCineseLibrary.csproj|c:\\users\\leonardo.lessi\\documents\\informatica-git-hub\\morracineseinterfacceconsolewpf\\morracineseinterfacce\\gamelibrary\\iinputinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{423ECDB8-C275-4F5B-BACC-91ADE245C2D3}|GameLibrary\\MorraCineseLibrary.csproj|solutionrelative:gamelibrary\\iinputinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B5238F5C-197C-4ED9-BEDD-AFFA29035B12}|TestGame\\TestMorraCinese.csproj|c:\\users\\leonardo.lessi\\documents\\informatica-git-hub\\morracineseinterfacceconsolewpf\\morracineseinterfacce\\testgame\\testgamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
@@ -71,8 +71,7 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-30T07:30:10.389Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -85,12 +84,11 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-30T08:00:01.182Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\Leonardo.Lessi\\Documents\\INFORMATICA-GIT-HUB\\MorraCineseInterfacceConsoleWpf\\MorraCineseInterfacce\\MorraCineseWpf\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MorraCineseWpf\\MainWindow.xaml",
@@ -103,7 +101,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Leonardo.Lessi\\Documents\\INFORMATICA-GIT-HUB\\MorraCineseInterfacceConsoleWpf\\MorraCineseInterfacce\\MorraCineseWpf\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MorraCineseWpf\\MainWindow.xaml.cs",
@@ -117,7 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "HumanPlayer.cs",
               "DocumentMoniker": "C:\\Users\\Leonardo.Lessi\\Documents\\INFORMATICA-GIT-HUB\\MorraCineseInterfacceConsoleWpf\\MorraCineseInterfacce\\GameLibrary\\HumanPlayer.cs",
               "RelativeDocumentMoniker": "GameLibrary\\HumanPlayer.cs",
@@ -126,8 +124,7 @@
               "ViewState": "AQIAAAwAAAAAAAAAAAAAABkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-30T08:16:26.417Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -145,7 +142,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "IPlayer.cs",
               "DocumentMoniker": "C:\\Users\\Leonardo.Lessi\\Documents\\INFORMATICA-GIT-HUB\\MorraCineseInterfacceConsoleWpf\\MorraCineseInterfacce\\GameLibrary\\IPlayer.cs",
               "RelativeDocumentMoniker": "GameLibrary\\IPlayer.cs",
@@ -154,18 +151,17 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-30T07:35:57.014Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "GameManager.cs",
               "DocumentMoniker": "C:\\Users\\Leonardo.Lessi\\Documents\\INFORMATICA-GIT-HUB\\MorraCineseInterfacceConsoleWpf\\MorraCineseInterfacce\\GameLibrary\\GameManager.cs",
               "RelativeDocumentMoniker": "GameLibrary\\GameManager.cs",
               "ToolTip": "C:\\Users\\Leonardo.Lessi\\Documents\\INFORMATICA-GIT-HUB\\MorraCineseInterfacceConsoleWpf\\MorraCineseInterfacce\\GameLibrary\\GameManager.cs",
               "RelativeToolTip": "GameLibrary\\GameManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-30T07:31:48.518Z",
               "IsPinned": true,
@@ -173,7 +169,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
               "Title": "IInputInterface.cs",
               "DocumentMoniker": "C:\\Users\\Leonardo.Lessi\\Documents\\INFORMATICA-GIT-HUB\\MorraCineseInterfacceConsoleWpf\\MorraCineseInterfacce\\GameLibrary\\IInputInterface.cs",
               "RelativeDocumentMoniker": "GameLibrary\\IInputInterface.cs",
@@ -187,7 +183,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "IOutputInterface.cs",
               "DocumentMoniker": "C:\\Users\\Leonardo.Lessi\\Documents\\INFORMATICA-GIT-HUB\\MorraCineseInterfacceConsoleWpf\\MorraCineseInterfacce\\GameLibrary\\IOutputInterface.cs",
               "RelativeDocumentMoniker": "GameLibrary\\IOutputInterface.cs",
@@ -201,7 +197,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "ReadingFile.cs",
               "DocumentMoniker": "C:\\Users\\Leonardo.Lessi\\Documents\\INFORMATICA-GIT-HUB\\MorraCineseInterfacceConsoleWpf\\MorraCineseInterfacce\\ReadingAndWritingFile\\ReadingFile.cs",
               "RelativeDocumentMoniker": "ReadingAndWritingFile\\ReadingFile.cs",
@@ -210,12 +206,11 @@
               "ViewState": "AQIAABMAAAAAAAAAAAAgwDMAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-06T07:19:33.589Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "WritingFile.cs",
               "DocumentMoniker": "C:\\Users\\Leonardo.Lessi\\Documents\\INFORMATICA-GIT-HUB\\MorraCineseInterfacceConsoleWpf\\MorraCineseInterfacce\\ReadingAndWritingFile\\WritingFile.cs",
               "RelativeDocumentMoniker": "ReadingAndWritingFile\\WritingFile.cs",
@@ -224,8 +219,11 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-06T07:46:56.564Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }
