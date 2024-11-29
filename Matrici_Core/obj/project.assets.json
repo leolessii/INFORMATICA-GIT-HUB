@@ -50,11 +50,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\francesco.cangini\\Documents\\INFORMATICA-GIT-HUB\\Convoluzione4E\\matrici\\matrici.csproj",
-      "projectName": "matrici",
-      "projectPath": "C:\\Users\\francesco.cangini\\Documents\\INFORMATICA-GIT-HUB\\Convoluzione4E\\matrici\\matrici.csproj",
+      "projectUniqueName": "C:\\Users\\francesco.cangini\\Documents\\INFORMATICA-GIT-HUB\\Matrici_Core\\Matrici_Core.csproj",
+      "projectName": "Matrici_Core",
+      "projectPath": "C:\\Users\\francesco.cangini\\Documents\\INFORMATICA-GIT-HUB\\Matrici_Core\\Matrici_Core.csproj",
       "packagesPath": "C:\\Users\\francesco.cangini\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\francesco.cangini\\Documents\\INFORMATICA-GIT-HUB\\Convoluzione4E\\matrici\\obj\\",
+      "outputPath": "C:\\Users\\francesco.cangini\\Documents\\INFORMATICA-GIT-HUB\\Matrici_Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

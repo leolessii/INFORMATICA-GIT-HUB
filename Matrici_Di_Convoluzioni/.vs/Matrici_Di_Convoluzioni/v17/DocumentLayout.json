@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\francesco.cangini\\Documents\\INFORMATICA-GIT-HUB\\Matrici_Di_Convoluzioni\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3326491-0EE5-47DA-AFA7-01F554A74999}|Matrici_Di_Convoluzioni.csproj|c:\\users\\francesco.cangini\\documents\\informatica-git-hub\\matrici_di_convoluzioni\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3326491-0EE5-47DA-AFA7-01F554A74999}|Matrici_Di_Convoluzioni.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3326491-0EE5-47DA-AFA7-01F554A74999}|Matrici_Di_Convoluzioni.csproj|c:\\users\\francesco.cangini\\documents\\informatica-git-hub\\matrici_di_convoluzioni\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A3326491-0EE5-47DA-AFA7-01F554A74999}|Matrici_Di_Convoluzioni.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8C75596-BB60-4DEF-A44C-FC3BBB522C4A}|..\\Matrici_Core\\Matrici_Core.csproj|c:\\users\\francesco.cangini\\documents\\informatica-git-hub\\matrici_core\\matrice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8C75596-BB60-4DEF-A44C-FC3BBB522C4A}|..\\Matrici_Core\\Matrici_Core.csproj|c:\\users\\francesco.cangini\\documents\\informatica-git-hub\\matrici_core\\immagine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\francesco.cangini\\Documents\\INFORMATICA-GIT-HUB\\Matrici_Di_Convoluzioni\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\francesco.cangini\\Documents\\INFORMATICA-GIT-HUB\\Matrici_Di_Convoluzioni\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-29T09:46:24.711Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\francesco.cangini\\Documents\\INFORMATICA-GIT-HUB\\Matrici_Di_Convoluzioni\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\francesco.cangini\\Documents\\INFORMATICA-GIT-HUB\\Matrici_Di_Convoluzioni\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAkwCoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T09:16:40.381Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Matrice.cs",
+              "DocumentMoniker": "C:\\Users\\francesco.cangini\\Documents\\INFORMATICA-GIT-HUB\\Matrici_Core\\Matrice.cs",
+              "RelativeDocumentMoniker": "..\\Matrici_Core\\Matrice.cs",
+              "ToolTip": "C:\\Users\\francesco.cangini\\Documents\\INFORMATICA-GIT-HUB\\Matrici_Core\\Matrice.cs",
+              "RelativeToolTip": "..\\Matrici_Core\\Matrice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T09:25:05.222Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Immagine.cs",
+              "DocumentMoniker": "C:\\Users\\francesco.cangini\\Documents\\INFORMATICA-GIT-HUB\\Matrici_Core\\Immagine.cs",
+              "RelativeDocumentMoniker": "..\\Matrici_Core\\Immagine.cs",
+              "ToolTip": "C:\\Users\\francesco.cangini\\Documents\\INFORMATICA-GIT-HUB\\Matrici_Core\\Immagine.cs",
+              "RelativeToolTip": "..\\Matrici_Core\\Immagine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T09:18:11.582Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

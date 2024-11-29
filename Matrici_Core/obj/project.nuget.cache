@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ufdUmQ/7CHk=",
+  "dgSpecHash": "NYXMPxvU6Bc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\francesco.cangini\\Documents\\INFORMATICA-GIT-HUB\\Convoluzione4E\\matrici\\matrici.csproj",
+  "projectFilePath": "C:\\Users\\francesco.cangini\\Documents\\INFORMATICA-GIT-HUB\\Matrici_Core\\Matrici_Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\francesco.cangini\\.nuget\\packages\\sixlabors.imagesharp\\3.1.6\\sixlabors.imagesharp.3.1.6.nupkg.sha512"
   ],

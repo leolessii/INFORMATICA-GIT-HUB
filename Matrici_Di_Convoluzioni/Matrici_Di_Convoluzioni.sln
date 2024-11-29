@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matrici_Di_Convoluzioni", "Matrici_Di_Convoluzioni.csproj", "{A3326491-0EE5-47DA-AFA7-01F554A74999}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matrici_Core", "..\Matrici_Core\Matrici_Core.csproj", "{C8C75596-BB60-4DEF-A44C-FC3BBB522C4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3326491-0EE5-47DA-AFA7-01F554A74999}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3326491-0EE5-47DA-AFA7-01F554A74999}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3326491-0EE5-47DA-AFA7-01F554A74999}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3326491-0EE5-47DA-AFA7-01F554A74999}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8C75596-BB60-4DEF-A44C-FC3BBB522C4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8C75596-BB60-4DEF-A44C-FC3BBB522C4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8C75596-BB60-4DEF-A44C-FC3BBB522C4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8C75596-BB60-4DEF-A44C-FC3BBB522C4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9A0FD44-AF12-4454-8AEF-1653F3E47403}
+	EndGlobalSection
+EndGlobal
