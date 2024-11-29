@@ -11,9 +11,10 @@ public class immagine
         image = Image.Load<Rgba32>(nameImage);
     }
 
-    public void GetColor(int x, int y)
+    public Color GetColor(int x, int y)
     {
         colorTaken = image[x,y];
+        return colorTaken;
     }
 
     public void SetColor(int x, int y, Color color)
@@ -34,5 +35,15 @@ public class immagine
             //jpg
             image.SaveAsJpeg($"{path}.jpg");
         }
+    }
+
+    public int GetWidth()
+    {
+        return image.Width;
+    }
+
+    public int GetHeight()
+    {
+        return image.Height;
     }
 }
