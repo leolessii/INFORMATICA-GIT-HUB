@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Leonardo.Lessi\\Desktop\\Gestione_Ordini\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1876C843-249E-4F92-BB47-3C566341EA7E}|Gestione_Ordini.csproj|c:\\users\\leonardo.lessi\\desktop\\gestione_ordini\\ordine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1876C843-249E-4F92-BB47-3C566341EA7E}|Gestione_Ordini.csproj|solutionrelative:ordine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1876C843-249E-4F92-BB47-3C566341EA7E}|Gestione_Ordini.csproj|c:\\users\\leonardo.lessi\\desktop\\gestione_ordini\\prodotto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1876C843-249E-4F92-BB47-3C566341EA7E}|Gestione_Ordini.csproj|solutionrelative:prodotto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1876C843-249E-4F92-BB47-3C566341EA7E}|Gestione_Ordini.csproj|c:\\users\\leonardo.lessi\\desktop\\gestione_ordini\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1876C843-249E-4F92-BB47-3C566341EA7E}|Gestione_Ordini.csproj|solutionrelative:cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ordine.cs",
+              "DocumentMoniker": "C:\\Users\\Leonardo.Lessi\\Desktop\\Gestione_Ordini\\Ordine.cs",
+              "RelativeDocumentMoniker": "Ordine.cs",
+              "ToolTip": "C:\\Users\\Leonardo.Lessi\\Desktop\\Gestione_Ordini\\Ordine.cs",
+              "RelativeToolTip": "Ordine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T07:13:50.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Prodotto.cs",
+              "DocumentMoniker": "C:\\Users\\Leonardo.Lessi\\Desktop\\Gestione_Ordini\\Prodotto.cs",
+              "RelativeDocumentMoniker": "Prodotto.cs",
+              "ToolTip": "C:\\Users\\Leonardo.Lessi\\Desktop\\Gestione_Ordini\\Prodotto.cs",
+              "RelativeToolTip": "Prodotto.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAADwvzkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T07:09:03.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Leonardo.Lessi\\Desktop\\Gestione_Ordini\\Cliente.cs",
+              "RelativeDocumentMoniker": "Cliente.cs",
+              "ToolTip": "C:\\Users\\Leonardo.Lessi\\Desktop\\Gestione_Ordini\\Cliente.cs",
+              "RelativeToolTip": "Cliente.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T07:05:28.858Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
