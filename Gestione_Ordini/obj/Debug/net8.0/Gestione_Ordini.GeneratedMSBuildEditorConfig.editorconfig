@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Gestione_Ordini
-build_property.ProjectDir = C:\Users\Leonardo.Lessi\Desktop\Gestione_Ordini\
+build_property.ProjectDir = C:\Users\Leonardo.Lessi\Documents\INFORMATICA-GIT-HUB\Gestione_Ordini\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -19,22 +19,32 @@ namespace WonderLift
             {
                 ChangeMode(Mode.Down);
                 TimeSpan tsf = new TimeSpan(nFloorsToMove * Convert.ToInt32(_ts));
-                _t = new PeriodicTimer(tsf);
+                _tTot = new PeriodicTimer(tsf);
+                _tTic = new PeriodicTimer(_ts);
                 ValueTask<bool> b = new ValueTask<bool>(true);
-                if (_t.WaitForNextTickAsync() == b)
+                if (_tTot.WaitForNextTickAsync() == b)
                 {
                     ChangeMode(Mode.Rest);
+                }
+                if (_tTic.WaitForNextTickAsync() == b)
+                {
+                    ActualFloor--;
                 }
             }
             else if (cf > ActualFloor)
             {
                 ChangeMode(Mode.Up);
                 TimeSpan tsf = new TimeSpan(nFloorsToMove * Convert.ToInt32(_ts));
-                _t = new PeriodicTimer(tsf);
+                _tTot = new PeriodicTimer(tsf);
+                _tTic = new PeriodicTimer(_ts);
                 ValueTask<bool> b = new ValueTask<bool>(true);
-                if (_t.WaitForNextTickAsync() == b)
+                if (_tTot.WaitForNextTickAsync() == b)
                 {
                     ChangeMode(Mode.Rest);
+                }
+                if (_tTic.WaitForNextTickAsync() == b)
+                {
+                    ActualFloor++;
                 }
             }
         }

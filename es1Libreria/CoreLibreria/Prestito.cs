@@ -23,5 +23,10 @@ namespace CoreLibreria
             DataInizioPrestito = dataInizioPrestito;
             DataRestituzionePrevista = dataRestituzionePrevista;
         }
+
+        public Prestito()
+        {
+
+        }
     }
 }

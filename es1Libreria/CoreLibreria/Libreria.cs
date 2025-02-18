@@ -11,8 +11,9 @@ namespace CoreLibreria
         private string _nome;
         private HashSet<Libro> _libri;
         private HashSet<Utente> _utenti;
-        private Stack<Libro> _prestitiAttivi;
+        private Dictionary<Libro, Prestito> _prestitiAttivi;
         private Queue<Prestito> _prestitiInAttesa;
+        private XML _serializzatore;
 
         public string Nome
         {
@@ -30,26 +31,41 @@ namespace CoreLibreria
         public HashSet<Libro> Libri
         {
             get { return _libri; }
+            set { }
         }
         public HashSet<Utente> Utenti
         {
             get { return _utenti; }
+            set { }
         }
-        public Stack<Libro> PrestitiAttivi
+        public Dictionary<Libro, Prestito> PrestitiAttivi
         {
             get { return _prestitiAttivi; }
+            set {}
         }
         public Queue<Prestito> PrestitiInAttesa
         {
             get { return _prestitiInAttesa; }
+            set { }
         }
 
         public Libreria(string nome) 
         {
-            Nome = nome;
+            _nome = nome;
             _libri = new HashSet<Libro>();
             _utenti = new HashSet<Utente>();
-            _prestitiAttivi = new Stack<Libro>();
+            _prestitiAttivi = new Dictionary<Libro, Prestito>();
+            _prestitiInAttesa = new Queue<Prestito>();
+            _serializzatore = new XML();
+            //load dei dati da file
+        }
+
+        public Libreria()
+        {
+            Nome = "nome";
+            _libri = new HashSet<Libro>();
+            _utenti = new HashSet<Utente>();
+            _prestitiAttivi = new Dictionary<Libro, Prestito>();
             _prestitiInAttesa = new Queue<Prestito>();
             //load dei dati da file
         }
@@ -95,7 +111,7 @@ namespace CoreLibreria
                 Prestito prestito = new Prestito(libro, utente, DateTime.Now, DateTime.Now.AddMonths(1));
 
                 //verifico che il libro non sia già in prestito ovvero che nel dizionario non si apresente la chiave libro
-                if (_prestitiAttivi.Contains(libro))
+                if (_prestitiAttivi.ContainsKey(libro))
                 {
                     //altrimenti lo aggiungo alla coda dei prestiti
                     _prestitiInAttesa.Enqueue(prestito);
@@ -103,7 +119,7 @@ namespace CoreLibreria
                 }
                 else
                 {
-                    _prestitiAttivi.Push(libro);
+                    _prestitiAttivi.Add(libro, prestito);
                     return true;
                 }
             }
@@ -112,24 +128,22 @@ namespace CoreLibreria
                 throw new Exception($"il libro {libro} non è a disposizione della libreria");
             }
         }
-
-        /*
-        public bool RimuoviPrestito(Libro libro)
+        
+        public bool RimuoviPrestito(Libro libro, Prestito prestito)
         {
-            if (_prestitiAttivi.Contains(libro))
+            if (_prestitiAttivi.ContainsKey(libro) && _prestitiAttivi.ContainsValue(prestito))
             {
-                _prestitiAttivi.Pop();
+                return _prestitiAttivi.Remove(libro, out prestito);
             }
             else
             {
                 throw new Exception($"il libro {libro} non è a disposizione della libreria");
             }
         }
-        */
 
         public bool CercaPrestitiAttivi(Libro libro)
         {
-            return _prestitiAttivi.Contains(libro);
+            return _prestitiAttivi.ContainsKey(libro);
         }
 
         public bool CercaPrestitiInAttesa(Prestito prestito)

@@ -20,6 +20,10 @@ namespace CoreLibreria
             Id = id;
         }
 
+        public Utente()
+        {
+            
+        }
 
         public override bool Equals(object? obj)
         {

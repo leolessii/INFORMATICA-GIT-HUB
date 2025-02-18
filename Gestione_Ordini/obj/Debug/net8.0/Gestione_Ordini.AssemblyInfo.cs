@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Gestione_Ordini")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+63d5259d47b2412a9eea12c2407b6f71acd616db")]
 [assembly: System.Reflection.AssemblyProductAttribute("Gestione_Ordini")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Gestione_Ordini")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

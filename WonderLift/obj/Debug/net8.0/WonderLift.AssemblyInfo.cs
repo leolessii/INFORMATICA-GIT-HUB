@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WonderLift")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c9c7974936d3b0e89ab4898c06c8add7a199cf4e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+10c90f319c15b99f20f0da4922247da887de4bb4")]
 [assembly: System.Reflection.AssemblyProductAttribute("WonderLift")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WonderLift")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

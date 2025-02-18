@@ -22,7 +22,8 @@
         protected string _name;
         protected int _numberOfFloors;
         protected int _speed;
-        protected PeriodicTimer _t;
+        protected PeriodicTimer _tTot;
+        protected PeriodicTimer _tTic;
         protected TimeSpan _ts;
 
         protected Type TypeOfLift

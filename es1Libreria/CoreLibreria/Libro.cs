@@ -88,6 +88,11 @@
             NumeroInventario = numeroInventario;
         }
 
+        public Libro()
+        {
+            
+        }
+
         public override int GetHashCode()
         {
             return NumeroInventario.GetHashCode();
