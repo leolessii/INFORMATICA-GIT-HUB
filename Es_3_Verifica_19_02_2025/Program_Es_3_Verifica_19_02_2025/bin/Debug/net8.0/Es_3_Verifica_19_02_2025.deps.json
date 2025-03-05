@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Es_3_Verifica_19_02_2025/1.0.0": {
+        "dependencies": {
+          "Core_Es_3_Verifica_19_02_2025": "1.0.0"
+        },
+        "runtime": {
+          "Es_3_Verifica_19_02_2025.dll": {}
+        }
+      },
+      "Core_Es_3_Verifica_19_02_2025/1.0.0": {
+        "runtime": {
+          "Core_Es_3_Verifica_19_02_2025.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Es_3_Verifica_19_02_2025/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Core_Es_3_Verifica_19_02_2025/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
