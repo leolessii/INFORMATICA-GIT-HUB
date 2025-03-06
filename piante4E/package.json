@@ -1,0 +1,11 @@
+{
+  "name": "piante4e",
+  "version": "1.0.0",
+  "description": "vendita piante",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leonardo Lessi",
+  "license": "ISC"
+}
