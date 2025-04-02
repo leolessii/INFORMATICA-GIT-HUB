@@ -1,0 +1,14 @@
+{
+  "name": "piante",
+  "version": "1.0.0",
+  "description": "Gestione negozio di piante ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leonardo Lessi",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap-icons": "^1.11.3"
+  }
+}
