@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "Z:\\Informatica\\FilmER\\FilmER.csproj": {}
+    "C:\\Users\\Leonardo.Lessi\\Documents\\INFORMATICA-GIT-HUB\\FilmER\\FilmER.csproj": {}
   },
   "projects": {
-    "Z:\\Informatica\\FilmER\\FilmER.csproj": {
+    "C:\\Users\\Leonardo.Lessi\\Documents\\INFORMATICA-GIT-HUB\\FilmER\\FilmER.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Z:\\Informatica\\FilmER\\FilmER.csproj",
+        "projectUniqueName": "C:\\Users\\Leonardo.Lessi\\Documents\\INFORMATICA-GIT-HUB\\FilmER\\FilmER.csproj",
         "projectName": "FilmER",
-        "projectPath": "Z:\\Informatica\\FilmER\\FilmER.csproj",
+        "projectPath": "C:\\Users\\Leonardo.Lessi\\Documents\\INFORMATICA-GIT-HUB\\FilmER\\FilmER.csproj",
         "packagesPath": "C:\\Users\\Leonardo.Lessi\\.nuget\\packages\\",
-        "outputPath": "Z:\\Informatica\\FilmER\\obj\\",
+        "outputPath": "C:\\Users\\Leonardo.Lessi\\Documents\\INFORMATICA-GIT-HUB\\FilmER\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -51,6 +51,10 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Mvc": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[9.0.10, )"
@@ -66,6 +70,8 @@
               "version": "[9.0.10, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[9.0.10, )"
             }
