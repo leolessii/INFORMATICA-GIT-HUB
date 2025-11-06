@@ -12,7 +12,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace FilmER.Migrations
 {
     [DbContext(typeof(FilmDbContext))]
-    [Migration("20251031125014_01")]
+    [Migration("20251106105823_01")]
     partial class _01
     {
         /// <inheritdoc />
@@ -28,10 +28,7 @@ namespace FilmER.Migrations
             modelBuilder.Entity("Film", b =>
                 {
                     b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
                         .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
                     b.Property<int>("Anno")
                         .HasColumnType("int");
@@ -52,10 +49,7 @@ namespace FilmER.Migrations
             modelBuilder.Entity("Regista", b =>
                 {
                     b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
                         .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
                     b.Property<DateOnly?>("Morte")
                         .HasColumnType("date");
@@ -67,6 +61,7 @@ namespace FilmER.Migrations
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Nome")
+                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");

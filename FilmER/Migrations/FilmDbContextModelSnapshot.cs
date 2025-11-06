@@ -25,10 +25,7 @@ namespace FilmER.Migrations
             modelBuilder.Entity("Film", b =>
                 {
                     b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
                         .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
                     b.Property<int>("Anno")
                         .HasColumnType("int");
@@ -49,10 +46,7 @@ namespace FilmER.Migrations
             modelBuilder.Entity("Regista", b =>
                 {
                     b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
                         .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
                     b.Property<DateOnly?>("Morte")
                         .HasColumnType("date");
@@ -64,6 +58,7 @@ namespace FilmER.Migrations
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Nome")
+                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");

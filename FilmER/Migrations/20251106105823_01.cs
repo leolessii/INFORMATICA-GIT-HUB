@@ -15,9 +15,8 @@ namespace FilmER.Migrations
                 name: "Registi",
                 columns: table => new
                 {
-                    Id = table.Column<int>(type: "int", nullable: false)
-                        .Annotation("SqlServer:Identity", "1, 1"),
-                    Nome = table.Column<string>(type: "nvarchar(max)", nullable: true),
+                    Id = table.Column<int>(type: "int", nullable: false),
+                    Nome = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     Nascita = table.Column<DateOnly>(type: "date", nullable: false),
                     Morte = table.Column<DateOnly>(type: "date", nullable: true),
                     Nazionalita = table.Column<string>(type: "nvarchar(max)", nullable: true)
@@ -31,8 +30,7 @@ namespace FilmER.Migrations
                 name: "Films",
                 columns: table => new
                 {
-                    Id = table.Column<int>(type: "int", nullable: false)
-                        .Annotation("SqlServer:Identity", "1, 1"),
+                    Id = table.Column<int>(type: "int", nullable: false),
                     Titolo = table.Column<string>(type: "nvarchar(max)", nullable: true),
                     idRegista = table.Column<int>(type: "int", nullable: false),
                     Anno = table.Column<int>(type: "int", nullable: false)
