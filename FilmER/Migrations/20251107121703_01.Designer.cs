@@ -12,7 +12,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace FilmER.Migrations
 {
     [DbContext(typeof(FilmDbContext))]
-    [Migration("20251106105823_01")]
+    [Migration("20251107121703_01")]
     partial class _01
     {
         /// <inheritdoc />
