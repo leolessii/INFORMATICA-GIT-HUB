@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Leonardo.Lessi\\Documents\\INFORMATICA-GIT-HUB\\FilmER\\FilmER.csproj": {}
+    "C:\\Users\\Leonardo.Lessi\\Documents\\INFORMATICA-GIT-HUB\\Webapi\\Webapi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Leonardo.Lessi\\Documents\\INFORMATICA-GIT-HUB\\FilmER\\FilmER.csproj": {
+    "C:\\Users\\Leonardo.Lessi\\Documents\\INFORMATICA-GIT-HUB\\Webapi\\Webapi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Leonardo.Lessi\\Documents\\INFORMATICA-GIT-HUB\\FilmER\\FilmER.csproj",
-        "projectName": "FilmER",
-        "projectPath": "C:\\Users\\Leonardo.Lessi\\Documents\\INFORMATICA-GIT-HUB\\FilmER\\FilmER.csproj",
+        "projectUniqueName": "C:\\Users\\Leonardo.Lessi\\Documents\\INFORMATICA-GIT-HUB\\Webapi\\Webapi.csproj",
+        "projectName": "Webapi",
+        "projectPath": "C:\\Users\\Leonardo.Lessi\\Documents\\INFORMATICA-GIT-HUB\\Webapi\\Webapi.csproj",
         "packagesPath": "C:\\Users\\Leonardo.Lessi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Leonardo.Lessi\\Documents\\INFORMATICA-GIT-HUB\\FilmER\\obj\\",
+        "outputPath": "C:\\Users\\Leonardo.Lessi\\Documents\\INFORMATICA-GIT-HUB\\Webapi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -51,29 +51,13 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
-            "Microsoft.AspNetCore.Mvc": {
+            "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
-              "version": "[2.3.0, )"
+              "version": "[9.0.6, )"
             },
-            "Microsoft.EntityFrameworkCore": {
+            "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[9.0.10, )"
-            },
-            "Microsoft.EntityFrameworkCore.Design": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[9.0.10, )"
-            },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[9.0.10, )"
-            },
-            "Microsoft.EntityFrameworkCore.Tools": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[10.0.0, )"
+              "version": "[10.0.1, )"
             }
           },
           "imports": [
@@ -88,6 +72,9 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
